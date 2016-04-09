@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Marty Romero
+tagline:             Life as it happens to me
+url:                 http://martyromero.me
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Marty Romero
+  url:               https://twitter.com/martyromero
+  email:             martyromero@gmail.com
+
+# Custom vars
+version:             1
+github:
+  repo:              https://github.com/martyromero/martyromero.me.git
+
+#Dictionary
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+  
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
