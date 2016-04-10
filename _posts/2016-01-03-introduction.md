@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Introduction
+summary: lorem ipsum dolor sit amet solo fett hutt leia darth antilles moff dantooine amidala amidala.
+category: blog
+comments: true
+tags: tag1, tag2
+meta: this is the meta description that should accompany each post
 ---
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.

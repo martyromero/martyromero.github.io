@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Example content
+summary: lorem ipsum dolor sit amet solo fett hutt leia darth antilles moff dantooine amidala amidala.
+category: blog
+comments: true
+tags: tag1, tag2
+meta: this is the meta description that should accompany each post
 ---
 
 
