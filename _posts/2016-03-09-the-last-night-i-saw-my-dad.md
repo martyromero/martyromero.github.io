@@ -10,7 +10,7 @@ meta:
 ---
 
 ![My dad standing in front of a palm tree.]({{ site.siteurl }}/public/posts/dad-last-night.jpg)
-*My dad standing in front of a palm tree.*{:.image-caption .clearfix}
+*In his 30s, dad while serving time at Islas Marias Federal Prison in Mexico.*{:.image-caption .clearfix}
 
 ## Mom
 
@@ -22,16 +22,16 @@ The next step in her plan was to pack wood and a few rocks in empty boxes and st
 
 ## Dad
 
-Dad drove us to the bus station. While we waited for to board the bus, dad kept me close. I remember holding his hand and feeling that he didn't want to let go of me. I thought he had figured it out! That somehow he knew we weren't coming back.
+Dad drove us to the bus station. While we waited to board the bus, dad kept me close to him. I remember holding his hand and feeling that he didn't want to let go of me. I thought he had figured it out! That somehow he knew we weren't coming back.
 
-Just as we boarded the bus, he knelt beside me and kissed me on my cheek. I remember the prickly feeling of his mustache against my face and the strong smell of cigar. He tightened his grip on my hand and whispered,
+Just as we boarded the bus, he knelt beside me and kissed me on my cheek. I remember the prickly feeling of his mustache against my face and the strong smell of cigar. He tightened his grip on my hand and whispered:
 
->I am going to follow the bus for as long as I can, so look for me ok?
+>I am going to follow the bus for as long as I can, so be on the look out for me ok?
 
 ## Me
 
 Those were the last words he said to me. That was his way of saying good-bye. On the bus, mom didn't say much, but she held my hand the entire trip. As the bus got on the road, I kept looking out the window for dad's blue El Camino with the dirty white camper. A minute later, I saw his car cut in front of us. That gesture was as if he were talking to me and I burned it into memory. I stared at his car through the window, afraid to look away for fear that I might lose him. Some short distance later, I saw dad's car make a right turn, but the bus that we were on kept on going straight.
 
-As the year went by and I got older, I always yearned to tell him that I had seen his cars that night many years ago. And that I loved him.
+As the years went by and I got older, I always yearned to tell him that I had seen his car that night many years ago. And that I loved him.
 
 My dad passed away ten years ago today. Sometimes I still miss him.
