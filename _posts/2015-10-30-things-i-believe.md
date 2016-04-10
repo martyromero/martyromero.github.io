@@ -12,7 +12,7 @@ meta:
 
 I have spent a lot of my time trying to describe—to myself mostly—what this last year has done to me. I came up with a list. The list represents major paradigm shifts for me. A crisis, a journey, or perhaps the first time that I document (with some thought) feelings that I've long had.
 
-Anyhow, the Mormon missionaries have been coming by recently and their visit has caused me to think more about a "faith crisis" I find myself in since about a year ago. These are some thing that I decided I believe. I also list a couple of things that I don't believe. This feels like a fitting topic for a first blog post.
+Anyhow, the Mormon missionaries have been coming by recently and their visit has caused me to think more about a "faith crisis" I find myself in since about a year ago. These are some of the things that I know I believe for certain. I also list a couple of things that I don't believe. This feels like a fitting topic for a first blog post.
 
 1. I DO NOT believe that it is OK for non-LDS Christians to write lists of items that disqualify Mormons from being Christians.
 2. I DO NOT believe that it is OK for LDS to claim that non-LDS Christians do not have the "Fullness of the Gospel" on account of not accepting the Book of Mormon, Joseph Smith, Polygamy et. al.
