@@ -6,14 +6,16 @@
   padding-top:    2rem;
   padding-bottom: 1rem;
   margin-bottom: 8rem;
+  position: relative;
 }
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: $gray-4;
+  color: $gray-5;
   width: 50%;
   float: left;
+  font-weight: 400;
 
     a {
       color: inherit;
@@ -28,7 +30,7 @@
       margin-right: .5em;
       margin-top: -.4em;
       width: 50px;
-      height: 50px; 
+      height: 50px;
     }
 
     small {
@@ -46,9 +48,9 @@ ul.nav {
 
     li {
       margin-right: 20px;
-      display: inline-block;
+      float: right;
 
-      &:last-child {
+      &:first-child {
         position: relative;
         width: 16px;
         height: 16px;

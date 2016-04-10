@@ -29,9 +29,9 @@ github:
 
 #Dictionary
 pages_list:
-  Home:             '/'
-  Archive:          '/archive'
   About:            '/about'
+  Archive:          '/archive'
+  Home:             '/'
 
 # Gems
 gems:

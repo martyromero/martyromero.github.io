@@ -1,51 +1,42 @@
-// Navigation Variables
-$content-width: 100%;
-$breakpoint: 800px;
-$nav-height: 50px;
-$nav-background: #262626;
-$nav-font-color: #ffffff;
-$link-hover-color: #2581DC;
-
+@media (max-width: $large-breakpoint) {
+  .masthead {
+    margin-bottom: 4rem;
+  }
+  .masthead-title {
+    z-index: 0;
+    width: 60%;
+  }
+    ul.nav {
+      background-color: $gray-5;
+      color: $gray-1;
+      width: 100%;
+      z-index: 9999;
+      li {
+        float: none;
+        padding: 7px 0;
+        border-bottom: 1px dotted $gray-2;
+        &:first-child {
+          display: none;
+        }
+        &:last-child {
+          border-bottom: none;
+        }
+        a {
+          font-size: 100%;
+          text-decoration: none;
+          &:hover {
+            color: $white;
+            opacity: 1;
+          }
+        }
+      }
+    }
+}
 // Outer navigation wrapper
 .navigation {
   height: $nav-height;
-  background: $nav-background;
+  background: $gray-5;
 }
-nav {
-  width: 50%;
-  float: right;
-  text-align: right;
-  position: relative;
-  margin-top: -10px;
-    li {
-      display: inline;
-      margin-right: 20px;
-      &:last-child {
-        margin-right: 0;
-        position: relative;
-      }
-    a {
-      color: inherit;
-      opacity: .5;
-      font-size: 75%;
-      font-weight: 400;
-      &.feed-icon {
-        background: transparent url('/public/rss.svg') center left no-repeat;
-        font-size: 0;
-        position: absolute;
-        top: 8px;
-        padding: 7px;
-      }
-    }
-    }
-}
-
-// Container with no padding for navbar
-.nav-container {
-  max-width: $content-width;
-  margin: 0 auto;
-}
-
 
 // Dropdown list binds to JS toggle event
 .nav-dropdown {
@@ -55,70 +46,36 @@ nav {
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* Mobile navigation */
-
 // Binds to JS Toggle
 .nav-mobile {
   display: none;
   position: absolute;
-  top: -13px;
+  top: 0;
   right: 0;
   background: $nav-background;
   height: $nav-height;
   width: $nav-height;
 }
-@media only screen and (max-width: $breakpoint) {
- span.brand-name {
-   display: none;
- }
-.masthead-title {
-  width: auto;
-  img {
-    width: 55px;
-    height: 55px;
-    padding: 0;
-
-
-  }
-}
+@media only screen and (max-width: $large-breakpoint) {
   // Hamburger nav visible on mobile only
   .nav-mobile {
     display: block;
+    top: 1.5rem;
   }
   nav {
    width: 100%;
-   height: 100%;
-   padding: $nav-height 0 15px;
-   margin-top: -60px;
+    padding: $nav-height 0 15px;
     ul {
       display: none;
-      background-color: $nav-background;
-      // margin-top: -20px;
-
+      padding-left: 20px;
       li {
         float: none;
-        display: block;
-        margin-right: 0;
-        margin-bottom: 20px;
-        border-bottom: 1px solid #fff;
-        &:first-child {
-          padding-top: 30px;
-        }
-        &:last-child {
-          padding-bottom: 30px;
-        }
         a {
+          padding: 15px;
           line-height: 20px;
-          font-size: 80%;
-          color: #fff;
-          opacity: 1;
-          text-align: right;
-          padding: 10px;
-          &.feed-icon {
-            font-size: 90%;
-            background: none;
-            position: static;
-          }
+        }
+        ul li a {
+          padding-left: 30px;
         }
       }
     }
@@ -127,25 +84,25 @@ nav {
     position: static;
   }
 }
-@media screen and (min-width: $breakpoint) {
-
+@media screen and (min-width: $large-breakpoint) {
   .nav-list {
     display: block !important;
+    float: none;
   }
 }
 #nav-toggle {
   position: absolute;
-  left: 13px;
-  top: 22px;
+  left: 8px;
+  top: 14px;
   cursor: pointer;
-  padding: 2px 35px 16px 0px;
+  padding: 10px 35px 16px 0px;
   span,
   span:before,
   span:after {
     cursor: pointer;
-    // border-radius: 1px;
+    border-radius: 1px;
     height: 2px;
-    width: 25px;
+    width: 35px;
     background: $nav-font-color;
     position: absolute;
     display: block;
@@ -153,10 +110,10 @@ nav {
     transition: all 300ms ease-in-out;
   }
   span:before {
-    top: -7px;
+    top: -10px;
   }
   span:after {
-    bottom: -7px;
+    bottom: -10px;
   }
   &.active span {
     background-color: transparent;
@@ -171,11 +128,4 @@ nav {
       transform: rotate(-45deg);
     }
   }
-}
-
-// Page content
-article {
-  max-width: $content-width;
-  margin: 0 auto;
-  padding: 10px;
 }
