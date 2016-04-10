@@ -29,4 +29,6 @@ Anyhow, the Mormon missionaries have been coming by recently and their visit has
 13. I believe that religion has become an obstacle to #8.
 14. I believe that some people are evil.
 15. I believe that most people are kind.
-16. I believe the following more now than at any other time in my life: >The real violence, the violence that I realized was unforgivable, is the violence that we do to ourselves when we're too afraid to be who we really are." - Nomi (Sense8, Season 1, Episode 2).
+16. I believe the following more now than at any other time in my life:
+
+>The real violence, the violence that I realized was unforgivable, is the violence that we do to ourselves when we're too afraid to be who we really are." - Nomi (Sense8, Season 1, Episode 2).
