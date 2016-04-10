@@ -4,28 +4,10 @@ title: About
 permalink: about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+  <img src="{{ site.baseurl }}/public/about/marty-romero.jpg" alt="Marty Romero portrait" class="about-image" />
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**Hi, my name is José Romero**, but most people call me [Marty](http://theycallmemarty.com "Why do they call me marty?"). I am a Designer, Educator, and all around Technology nerd.
 
-There are currently two themes built on Poole:
+In this corner of the internet I write mostly about life as it happens to me. A lot of it is personal and mostly written for an audience of one—me. I live in Los Angeles with my [wife](http://nedandthefrog.com "Ned and the Frog") and my four cats. You can also find me in the usual digital neighborhoods like [Twitter](http://twitter.com/martyromero "Marty Romero at Twitter"), [Instagram](http://instagram.com/katerone "I am on Instagram"), and [LinkedIn](http://linkedin.com/martyromero "The place for grown-ups").
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Stay a while and get to know me. [Say hello](mailto:hi@theycallmemarty.com "hi") and tell me where I can find  you on line. I love a good story!
