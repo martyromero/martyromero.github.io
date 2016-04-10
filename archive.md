@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Archive
-permalink: blog/archives/
+permalink: archive
 ---
 
 {% for post in site.posts %}
