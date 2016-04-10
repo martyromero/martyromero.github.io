@@ -56,7 +56,7 @@
   height: $nav-height;
   width: $nav-height;
 }
-@media only screen and (max-width: $small-breakpoint) {
+@media only screen and (max-width: $large-breakpoint) {
   // Hamburger nav visible on mobile only
   .nav-mobile {
     display: block;
