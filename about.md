@@ -4,7 +4,8 @@ title: About
 permalink: about/
 ---
 
-  <img src="{{ site.baseurl }}/public/about/marty-romero.jpg" alt="Marty Romero portrait" class="about-image" />
+
+<img src="{{ site.baseurl }}/public/about/marty-romero.jpg" alt="Marty Romero portrait" class="about-image" />
 
 **Hi, my name is José Romero**, but most people call me [Marty](http://theycallmemarty.com "Why do they call me marty?"). I am a Designer, Educator, and all around Technology nerd.
 
