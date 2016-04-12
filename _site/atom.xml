@@ -4,13 +4,30 @@
  <title>Marty Romero</title>
  <link href="http://martyromero.me/atom.xml" rel="self"/>
  <link href="http://martyromero.me/"/>
- <updated>2016-04-11T11:38:16-07:00</updated>
+ <updated>2016-04-12T13:02:19-07:00</updated>
  <id>http://martyromero.me</id>
  <author>
    <name>Marty Romero</name>
    <email>martyromero@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Dear Cheating Spouse...</title>
+   <link href="http://martyromero.me/dear-cheating-spouse"/>
+   <updated>2016-04-12T00:00:00-07:00</updated>
+   <id>http://martyromero.me/dear-cheating-spouse</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Your first marriage is over. Would you like to create a second one together?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You will be rebuilding a new life after an affair; the question becomes, will you be doing it together as a couple, or on your own?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/P2AUat93a8Q&quot; target=&quot;_blank&quot;&gt;- Esther Perel - &lt;em&gt;Why Happy Couples Cheat&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Debate Over Graffiti as Crime or Art is Pointless (part 1 of 2)</title>
@@ -130,7 +147,7 @@
  </entry>
  
  <entry>
-   <title>Things I believe (and a couple that I don&#39;t)</title>
+   <title>Things I believe (and two that I don&#39;t)</title>
    <link href="http://martyromero.me/things-i-believe"/>
    <updated>2015-10-30T00:00:00-07:00</updated>
    <id>http://martyromero.me/things-i-believe</id>

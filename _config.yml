@@ -37,3 +37,6 @@ pages_list:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+# Drafts
+show_drafts: false

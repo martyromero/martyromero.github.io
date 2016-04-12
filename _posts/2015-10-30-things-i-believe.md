@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I believe (and a couple that I don't)
+title: Things I believe (and two that I don't)
 summary: I have spent a lot of my time trying to describe—to myself mostly—what this last year has done to me. I came up with a list.
 category: blog
 comments: true
