@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Note to a Cheating Spuse
+title: The Debate Over Graffiti as Crime or Art is Pointless (part 2 of 2)
 summary: 
 category: blog
-comments: false
+comments: true
 tags: quotes
-description: meta:
+description: 
+meta:
 ---
 
->Your First Marriage is Over, Would You Like to Create a Second One Together? 
-
->You will be rebuilding a new life after an affair; the question becomes, will you be doing it together as a couple, or on your own?
-
  [Esther Perel - _Why Happy Couples Cheat_](https://youtu.be/THHOTWBs8ZQ ){:target="_blank"}
+ 
+ This is part two of my argument for graffiti. My argument is not so much for graffiti to be made legal—though it might seem so. Instead, what I try to make a case for is that graffiti[^1] serves a positive function in any community when it is considered in the context of how we use and experience our public spaces.
+ [^1]:
+ I am using a specific definition of graffiti. Vic does an excellent job of explaining here: [http://bit.ly/1T3QoiF](http://bit.ly/1T3QoiF). 
+ 
+In order to understand my position, we first have to get on the same page about what I mean when I use the word "graffiti." Most arguments for or against graffiti fail to do this. By not defining the term, it is assumed that all graffiiti is equal. Though I will admit, that to the average person, graffiti is graffiti no matter who wrote it. But that isn't the case. For example, gang graffiti is not the same as graffiti by a "tagger." Gang graffiti is typically used to mark the gang's territory, declare a death sentence on a rival gang member by crossing out his name, or as a roll call of gang members. Graffiti by taggers does not make claim to territory. Unlike gang graffiti, crossing out the name of another tagger is not seen as a death sentence, but a challenge to the other tagger to see who can paint/tag better or more. Painting over the work of one artist by another without retaliation is common.The official definition by Merriam-Webster's dictionary of graffiti is
+> “Pictures or words painted or drawn on a wall, building, etc.[2]” Hence by definition graffiti is not illegal in any state in the country. Graffiti is only a crime because there is no monetary gain of any corporation. The way the state defines graffiti is as follows. “(e) As used in this section, the term "graffiti or other inscribed material" includes any unauthorized inscription, word, figure, mark, or design, that is written, marked, etched, scratched, drawn, or painted on real or personal property.” This is from California penal code 594. the key word in this definition is not the act of, but the “unauthorized” act of, graffiti which is illegal. In this regards the focus should not be on graffiti itself, but the means by which authorization is attained. By both definitions the classic and the more sectarian definition of the penal code, ANYthing that is public is potentially graffiti, Nextel billboards, Nike adds on bus shelters, you can’t cheer for a sports team without also endorsing a type of corporation. What is giving these corporations the authorization is the amount they are able to spend on the public space, in other words MONEY. It is easy for folks to say “money isn’t everything” but the truth is that when we accept as normal the fact that only those with money have a voice, then we are saying that money in deed is everything. Before graffiti is labeled illegal the merit of the law needs to be examined. There was a time when black folks were not allowed to sit on the front of the bus, or when Mexican folks could only visit the public pools on the days they were cleaned. This of course has changed, because the laws were changed, the merit of the laws do not always reflect what is right and wrong, or what adds or takes away value from community. So your statement should be “graffiti, by a sectarian definition is a crime” but even that speaks little about graffiti as valuable or not, it only expresses the existence of a law prohibiting the right to public space unless you can pay for it. 
