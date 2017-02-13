@@ -4,7 +4,7 @@ title: I am ready for the spring
 summary: I am ready for the spring.
 category: blog
 comments: true
-tags: random
+tags: family
 description: I never thought I’d miss the sun. I don’t hate snow, I just want the sun.
 meta:
 ---
