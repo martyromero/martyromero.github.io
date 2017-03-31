@@ -15,7 +15,7 @@ meta: family, mom, age, sadness,
 
 ## Mom
 
-When I think of my mom, two words come to mind, determination and fearless. I like to think that she taught me to be a little of both. She also taught me to be stubborn to a fault.
+When I think of my mom, two words come to mind, determination and fearlessness. I like to think that she taught me to be a little of both. She also taught me to be stubborn to a fault.
 
 This is one of my favorite pictures of her. Although you can’t see the detail in her eyes, her expression is says it all. Look at her posture. Look at her shoulders. Look at her soft brown skin. This picture must have been taken when mom was in her mid 40s. I don’t remember it (yes, that’s me in the fashionable white hat).
 
