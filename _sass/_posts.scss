@@ -80,6 +80,16 @@ article {
     margin: 0 auto;
     width: 30%;
   }
+  p.pull-quote {
+    margin-left: -75px;
+    padding: 20px;
+    font-size: 25px;
+    font-family: georgia, serif;
+    font-style: italic;
+    color: #ccc;
+    font-weight: 100;
+    background-image: url('/public/posts/open-quotes.jpg') top -100px no-repeat;
+}
   em.image-caption {
     display: inline-block;
     font-size: 75%;
