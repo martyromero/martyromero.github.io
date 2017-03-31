@@ -23,7 +23,7 @@ In her latter years she has become more fragile. When I touch her shoulders she 
 This woman is largely responsible for who I am and I love her so much.
 
 
-##Washington
+## Washington
 
 Moving to Washington for me was largely about reseting our lives--(ours, meaning me and beth), but it was also about offering mom the a way to not live alone anymore. For as long as I could remember I waited for the day when I could say to her “Mom, here are the keys to your house. Thank you, and you don’t have to work again. I got this.” I have failed.
 
