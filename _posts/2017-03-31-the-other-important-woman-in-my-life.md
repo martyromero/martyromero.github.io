@@ -39,4 +39,4 @@ Washington without the two most important people in my life is not going to be t
 Dear Dad,   
 Why the fuck did you not teach me how to do this?! Caring for mom was your job. I would have helped, but you should have shown me how to do it!   
 {:.pull-quote-sig}
-- Me.
+![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
