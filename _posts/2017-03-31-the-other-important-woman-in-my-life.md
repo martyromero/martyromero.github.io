@@ -12,7 +12,7 @@ meta: family, mom, age, sadness,
 ![Mom, my sister and me.]({{ site.siteurl }}/public/posts/teresa-leon.jpg)
 *Teresa Leon in her mid 40s. I don't remember where this was nor who took the picture, but that's me in the white hat.*{:.image-caption .clearfix}
 
-## I have missed her
+## Mom
 
 When I think of my mom, two words come to mind, determination and fearless. I like to think that she taught me to be a little of both. She also taught me to be stubborn to a fault. This is one of my favorite pictures of her. Although you can’t see the detail, her expression mirrors the look in her eyes. Look at her posture, at her shoulders, at her soft brown skin. This picture must have been taken when mom was in her mid 40s. I don’t remember it (yes, that’s me in the fashionable white hat).
 
