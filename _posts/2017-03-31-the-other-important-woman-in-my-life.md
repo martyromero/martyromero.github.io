@@ -10,7 +10,8 @@ meta: family, mom, age, sadness,
 ---
 
 ![Mom, my sister and me.]({{ site.siteurl }}/public/posts/teresa-leon.jpg)
-*Teresa Leon in her mid 40s. I don't remember where this was nor who took the picture, but that's me in the white hat.*{:.image-caption .clearfix}
+*Teresa Leon in her mid 40s. I don't remember where this was nor who took the picture, but that's me in the white hat.*{:.image-caption .clearfix}   
+
 
 ## Mom
 
