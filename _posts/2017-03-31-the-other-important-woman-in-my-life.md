@@ -38,7 +38,7 @@ I don’t want her to say “thank you.” I don’t want her to admit that she 
 
 {:.pull-quote}
 Dear Dad,   
-Why the fuck did you not teach me how to do this?! Caring for mom was your job. I would have helped, but you should have shown me how to do it!   
+Why the fuck did you not teach me how to do this?! Caring for mom was your job. I would have helped, but you should have taught me how!   
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
