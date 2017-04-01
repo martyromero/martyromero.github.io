@@ -7,7 +7,6 @@ comments: true
 tags: family
 description: When I think of my mom, two words come to mind, determination and fearless.
 meta: family, mom, age, sadness,
-excerpt_separator: <!--more-->
 ---
 
 ![Mom, my sister and me.]({{ site.siteurl }}/public/posts/teresa-leon.jpg)
@@ -15,9 +14,9 @@ excerpt_separator: <!--more-->
 
 
 ## Mom
-<!--more-->
+
 When I think of my mom, two words come to mind, determination and fearlessness. I like to think that she taught me to be a little of both. She also taught me to be stubborn to a fault.
-<!--more-->
+
 This is one of my favorite pictures of her. Although you can’t see the detail in her eyes, her expression says it all. Look at her posture. Look at her shoulders. Look at her soft brown skin. This picture was taken when mom was in her mid 40s. I don’t remember it (yes, that’s me in the fashionable white hat).
 
 The look in this picture is familiar. I saw it hundreds of times when the stress of caring for a handicapped daughter (my sister) and a troublesome son (yup, me) was too much. She has always been determined, strong willed, hard, and hard working. She has always had a piercing sounding voice, louder than anyone would like. But, it’s also tender and soft when she wants it to be.
