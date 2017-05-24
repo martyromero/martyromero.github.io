@@ -12,8 +12,8 @@ description: I use to write about changing into a better version of myself. I am
 
 I can’t tell if I have become a better person. I don’t feel any closer to a ‘better-version’ of myself that I constantly wrote about three years ago. I actually feel farther away.
 
-| Before                                                                                                                             | Now                                                                                                                                                                                                |
-|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Before    | Now   |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | I am a fair, and open minded Christian.                                                                                            | I am critical of christianity, and being around large christian groups puts me on edge.                                                                                                            |
 | Friendship(s) are some of the purest type of relationships. I don’t have a lot of friends, instead I have a few close friendships. | I am generally apprehensive about friendship(s) in general. I don’t make an effort to build friendships.                                                                                           |
 | I am playful.                                                                                                                      | I am not playful.                                                                                                                                                                                  |
