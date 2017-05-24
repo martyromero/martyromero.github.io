@@ -8,10 +8,6 @@ tags: personal, family
 description: I use to write about changing into a better version of myself. I am not sure that is happening. These are ways in which I have changed over the last couple of years.
 ---
 
-![Mom, my sister and me.]({{ site.siteurl }}/public/posts/teresa-leon.jpg)
-*Teresa Leon in her mid 40s. I don't remember where this was nor who took the picture, but that's me in the white hat.*{:.image-caption .clearfix}  
-
-
 ## Change
 
 I can’t tell if I have become a better person. I don’t feel any closer to a ‘better-version’ of myself that I constantly wrote about three years ago. I actually feel farther away.
