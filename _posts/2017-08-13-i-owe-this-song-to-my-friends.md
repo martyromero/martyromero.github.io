@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I owe this song to my friends
-summary: Some years ago I found a song by Tom Paxton that captured perfectly in its melody and its lyrics how I felt about a gal that walked out of my life. 
+summary: Some years ago I found a song by Tom Paxton that captured perfectly in its melody and its lyrics how I felt about a gal that walked out of my life.
 category: blog
 comments: true
 tags: personal, friendship
@@ -19,10 +19,10 @@ Some years ago I found a song by [Tom Paxton][1] that captured perfectly in its 
 I am yet to listen to another song that so simply and profoundly expresses the sense of impending loss, the realization of one's own foolish failures, and the quiet desperation of hoping that it's not completely over. It still heals me when I listen to it.
 
 ## To my wife
-Not long ago, I was forced to take inventory of my life and the many ways in which I have hurt those closest to me (especially my wife). Since, this song has become important to me again because it keeps me mindful of the selfish asshole inside of me eager to creep out. So, I owe it to my wife to listen to this song often. Especially, because one day in May seventeen years ago, she was the gal that walked away. I am grateful to have her. 
+Not long ago, I was forced to take inventory of my life and the many ways in which I have hurt those closest to me (especially my wife). Since, this song has become important to me again because it keeps me mindful of the selfish asshole inside of me eager to creep out. So, I owe it to my wife to listen to this song often. Especially, because one day in May seventeen years ago, she was the gal that walked away. I am grateful to have her.
 
 ## To my friends
-I had a thought yesterday while I was working on the yard listening to the song again. I realized that I also owe this song to my friends. See, I have hurt them too. I’ve always thought of myself as a good and kind friend. But the truth is that throughout my life I have lied and manipulated friendships to my benefit. I am lucky to still have a handful of relationships in that category  around. But to those who no longer are, I wish that I could say to you “I am sorry,” but I can’t. So, to the few friends that I still have, “thank you.” I am trying to be \<strike\>a different\</strike\> a better friend for you.
+I had a thought yesterday while I was working on the yard listening to the song again. I realized that I also owe this song to my friends. See, I have hurt them too. I’ve always thought of myself as a good and kind friend. But the truth is that throughout my life I have lied and manipulated friendships to my benefit. I am lucky to still have a handful of relationships in that category  around. But to those who no longer are, I wish that I could say to you “I am sorry,” but I can’t. So, to the few friends that I still have, “thank you.” I am trying to be <strike>a different</strike> a better friend for you.
 
 {:.pull-quote}
 …will there be not a trace left behind. Well, I could have loved you better, didn’t mean to be unkind. You know that was the last thing on my mind…”
