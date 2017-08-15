@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I owe this song to all my friends
+title: I owe this song to my friends
 summary: Some years ago I found a song by Tom Paxton that captured perfectly in its melody and its lyrics how I felt about a gal that walked out of my life. 
 category: blog
 comments: true
