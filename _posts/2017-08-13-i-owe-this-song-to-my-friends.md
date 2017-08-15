@@ -16,13 +16,13 @@ Some years ago I found a song by [Tom Paxton][1] that captured perfectly in its 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/7o146K6cGLk?rel=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
 
-I am yet to listen to another song that so simply and profoundly expresses the sense of impending loss, the realization of one's own foolish failures, and the quiet desperation of hoping that it's not completely over. It is still healing when I listen to it.
+I am yet to listen to another song that so simply and profoundly expresses the sense of impending loss, the realization of one's own foolish failures, and the quiet desperation of hoping that it's not completely over. It still heals me when I listen to it.
 
 ## To my wife
 Not long ago, I was forced to take inventory of my life and the many ways in which I have hurt those closest to me (especially my wife). Since, this song has become important to me again because it keeps me mindful of the selfish asshole inside of me eager to creep out. So, I owe it to my wife to listen to this song often. Especially, because one day in May seventeen years ago, she was the gal that walked away. I am grateful to have her. 
 
 ## To my friends
-I had a thought yesterday. I also owe this song to the few friends that I still have because I have also hurt them. I have always thought of myself as a good friend. But the truth is that throughout my life I have lied and manipulated friendships to my benefit. I am lucky to still have a handful of relationships in that category that are still around. But to those who no longer are, I wish that I could say to them that I am sorry, but I can’t. To the few friends that I still have, thank you. I am trying to be a different  a better friend for you.
+I had a thought yesterday while I was working on the yard listening to the song again. I realized that I also owe this song to my friends. See, I have hurt them too. I’ve always thought of myself as a good and kind friend. But the truth is that throughout my life I have lied and manipulated friendships to my benefit. I am lucky to still have a handful of relationships in that category  around. But to those who no longer are, I wish that I could say to them “I am sorry,” but I can’t. So, to the few friends that I still have, thank you. I am trying to be a different a better friend for you.
 
 {:.pull-quote}
 …will there be not a trace left behind. Well, I could have loved you better, didn’t mean to be unkind. You know that was the last thing on my mind…”
