@@ -17,7 +17,7 @@ My lunch was ruined! Only that it wasn't, but it wasn't what I had planned and I
 
 half a mile away from home my eyes couldn't contain the tears. They were mostly out of frustration and panic. I tried to not let my wife see me, but I think she noticed. She took her hand and held my left forearm for a bit. I was grateful that she didn't ask or mention it. It would have made it worse.
 
-**I was listening to this when I wrote this.**
+**I was listening to this.**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/zIYu4EHq0Lo?rel=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
