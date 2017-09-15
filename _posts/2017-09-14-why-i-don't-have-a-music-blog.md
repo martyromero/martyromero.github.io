@@ -8,13 +8,14 @@ tags: personal, music, god,
 description: I answer my wife's question about why I don't blog about music.
 ---
 
-![I hate meme-type images, but this is pretty fitting. I feel like this a lot.]({{ site.siteurl }}/public/posts/leto-music.jpg)
+![Some people believe in god. I believe in music. Some people pray, I turn up the radio. -Jared Leto]({{ site.siteurl }}/public/posts/leto-music.jpg)
 *I hate meme-type images, but this is pretty fitting. I feel like this a lot.*{:.image-caption .clearfix}
+
 
 Yesterday, my wife asked me,“why don’t you have a music blog, since music seems to be so therapeutic for you?” (paraphrasing). I wasn’t sure how to answer, so I’ve thought about it all day and I think that I could answer better today.
 
 ## Background
-One year ago I began to listen to Tom Waits daily. I was familiar with his songs before, but not like I became in the last year. I first listened to Tom’s music when I was in high school, but I was so dismissive and obsessed with The Doors to really appreciate his lyrics and songs. At one point I had all of his albums on cassette up to his 1993’s “Black Rider” (I wish I knew what happened to them).  My first MP3 of his music was “Mule Variations” which I bought sometime in 2005. I loved most of the songs in that album, but I always skipped track sixteen. I would just start the record over. It wasn’t until a few years ago when “Come on Up to the House” finally broke through me, or rather broke me. I think that life has to teach you some lessons about loss, and grief to appreciate the depth of Tom’s songs. This song was no exception. It became my friend when I was most alone. 
+One year ago I began to listen to Tom Waits daily. I was familiar with his songs before, but not like I became in the last year. I first listened to Tom’s music when I was in high school, but I was so dismissive and obsessed with The Doors to really appreciate his lyrics and songs. At one point I had all of his albums on cassette up to his 1993’s “Black Rider” (I wish I knew what happened to them).  My first MP3 of his music was “Mule Variations” which I bought sometime in 2005. I loved most of the songs in that album, but I always skipped track sixteen. I would just start the record over. It wasn’t until a few years ago when “Come on Up to the House” finally broke through me, or rather broke me. I think that life has to teach you some lessons about loss, and grief to appreciate the depth of Tom’s songs. This song was no exception. It became my friend when I was most alone.
 
 These are the lyrics:
 
