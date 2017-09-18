@@ -1,11 +1,11 @@
 ---
 layout: post
-title: From Faith to Crisis in Three Acts (Act 1)
+title: From Faith to Crisis Part 1 of 3
 summary: My perspective on religion has changed at least twice. The change has been a gradual process with such stealth that it’s been short of invisible, but it has challenged almost everything that I believed about God, Salvation and Morality.
 category: blog
 comments: true
 tags: faith
-description: My perspective on religion has changed at least twice. This is Act 1
+description: My perspective on religion has changed at least twice. This is Part 1 of 3
 meta:
 ---
 

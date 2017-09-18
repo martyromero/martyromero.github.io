@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: Why I don't blog about music
 summary: Yesterday, my wife asked me,“why don’t you have a music blog, since music seems to be so therapeutic for you?”
@@ -6,7 +6,7 @@ category: blog
 comments: true
 tags: personal, music, god,
 description: I answer my wife's question about why I don't blog about music.
----
+--
 
 ![Some people believe in god. I believe in music. Some people pray, I turn up the radio. -Jared Leto.]({{ site.siteurl }}/public/posts/leto-music.jpg)
 *I hate meme-type images, but this is pretty fitting. I feel like this a lot.*{:.image-caption .clearfix}
@@ -71,7 +71,7 @@ you gotta come on up to the house
 [“Come on Up to the House”](https://youtu.be/c_OkcVLBB9A?t=1h6m10s) still makes me cry when I listen to it, and there is a lot more that I can say about this song (I will later in another post). I don’t listen to it very often. Not because I am afraid of it, but because it is a special song for me and I find it very moving. I still remember the feeling of it penetrating through me. It felt like a long embrace.
 
 ## My answer
-I don't write a music blog because music is so much more than therapeutic for me. I don't feel that I could do it justice if I wrote about music and it has to do with "God." It's not what you think. You see, sometimes I have often driven myself crazy looking for some knowable, definite version of "God" in Bibles, churches, ideologies etc—--the latest has been in the [Hare Krishna Consciousness movement](https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness)---with no luck. But although I still have no idea about God—--only that what ever he/she/it is, is something that I can’t fathom--—when I play or listen to music, I often feel that I am in the presence of something divine that is something more than the sound in my ears. That doesn’t mean that I think that music or musicians are gods--far from it---but I am certain that "God" (what ever he/she/it is) is in music. "God" is in music, but not in a “God is working through music to talk to you” Judeo-Christian sense. That perspective bastardizes what music means to me. It is something different to me that is difficult to explain, but it is the only answer that I have. Luckily, no one else besides me needs to understand it. That is why I don't write about music.
+I don't write a music blog because music is so much more than therapeutic for me. I don't feel that I could do it justice if I wrote about music and it has to do with "God." It's not what you think. You see, I have often driven myself crazy looking for some knowable, definite version of "God" in Bibles, churches, ideologies etc—-the latest has been in the [Hare Krishna Consciousness movement](https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness)--with no luck. But although I still have no idea about God—-only that what ever he/she/it is, is something that I can’t fathom--when I play or listen to music, I often feel that I am in the presence of something divine that is more than only the sound in my ears. It doesn’t mean that I think music or musicians are gods--far from it--but I am certain that "God" (what ever he/she/it is) is in music. "God" is in music, but not in a “God is working through music to talk to you” Judeo-Christian sense. That perspective bastardizes what music means to me. It is something different to me that is difficult to explain, but it is the only answer that I have. Luckily, no one else besides me needs to understand it. That is why I don't write about music.
 
 **Thank you for this song Tom Waits.**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
