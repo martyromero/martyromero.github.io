@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Why I don't blog about music
 summary: Yesterday, my wife asked me,“why don’t you have a music blog, since music seems to be so therapeutic for you?”
@@ -6,7 +6,7 @@ category: blog
 comments: true
 tags: personal, music, god,
 description: I answer my wife's question about why I don't blog about music.
---
+---
 
 ![Some people believe in god. I believe in music. Some people pray, I turn up the radio. -Jared Leto.]({{ site.siteurl }}/public/posts/leto-music.jpg)
 *I hate meme-type images, but this is pretty fitting. I feel like this a lot.*{:.image-caption .clearfix}
