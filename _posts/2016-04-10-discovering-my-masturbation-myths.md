@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discovering My Masturbation Myths
+title: Discovering my masturbation myths
 summary: I remember the summer when I discovered masturbation. It was an incredible three months that came to an end in September at the start of a new school year.
 category: blog
 comments: true
