@@ -64,12 +64,6 @@ I've done some pretty terrible things to others. I have lied, taken advantage of
 Sometimes, these things nag at me in the back of my head for much longer than they should. There comes a time when I just need to forgive
 myself no matter how difficult, heartbreaking or painful they may have been. Some things I haven't forgiven myself yet.
 
-**Fall 2017 Playlist.**
- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/hUE-ic_Q0g4?rel=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
-
-*Come On Up to the House - Tom Waits.*{:.image-caption .clearfix}
-
 ## When I wrote this, I was listening to this song:
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/bv24AhnVdH4?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
