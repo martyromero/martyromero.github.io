@@ -33,8 +33,7 @@ while I can't say that I have learned to quiet my mind (I don't believe I ever w
 hopelessness, and sadness better. I also enjoy spending time with myself.
 
 **4. Don't drink too much.**
-I started drinking three years ago. I drank during the day, at work, home, and late at night. Alcohol never made life any better, it only makes me
-sleepy and my feet really warm! Now, I mostly drink to try new drinks and learn to mix them myself. And I still don't like beer.
+I started drinking three years ago. I drank during the day, at work, home, and late at night. Alcohol never made life any better, it only made me sleepy and my feet really warm! Now, I mostly drink to try out new drinks and learn to mix them myself. And I still don't like beer.
 
 **5. It's ok to cry.**
 I've never had a problem expressing my sensitivity, even when I didn't understand it. But being so sensitive has always made me feel weak
@@ -60,9 +59,7 @@ Something about it made me feel self-righteous thinking that I was better at lif
 watch the chaos that is NOT in your life ensue in the lives of others by being a part of the grapevine, but it’s not admirable.
 
 **10. Forgive myself**
-I've done some pretty terrible things to others. I have lied, taken advantage of friends and even family, screamed some of the most unkind words etc.
-Sometimes, these things nag at me in the back of my head for much longer than they should. There comes a time when I just need to forgive
-myself no matter how difficult, heartbreaking or painful they may have been. Some things I haven't forgiven myself yet.
+I've done some pretty terrible things to others. I have lied, taken advantage of friends and even family, screamed some of the most unkind words etc. Sometimes, these things nag at me in the back of my head for much longer than they should. There comes a time when I just need to forgive myself no matter how difficult, heartbreaking or painful they may have been. There are things that I haven't forgiven myself for yet. It's a work in progress I guess.
 
 ## When I wrote this, I was listening to this song:
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
