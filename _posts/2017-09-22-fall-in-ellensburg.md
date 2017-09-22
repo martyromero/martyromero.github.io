@@ -9,7 +9,7 @@ description: Here is my music playlist for this fall.
 ---
 
 ![Fall trees in Ellensburg Washington]({{ site.siteurl }}/public/posts/fall-eburg.jpg)
-*6th Ave., looking east from the corner of Walnut in the Fall. Ellensburg Wa.*{:.image-caption .clearfix}
+*6th Ave., looking west from the corner of Walnut &amp; 6th in the Fall. Ellensburg Wa.*{:.image-caption .clearfix}
 
 ## Fall
 It's official. Fall is here! Most people associate Spring with rebirth and newness--with good reason--but I don't. For me, its the Fall
