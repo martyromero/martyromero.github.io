@@ -8,7 +8,7 @@ tags: personal, life, music
 description: This is how I organize my playlists on Spotify
 ---
 
-In my first toastmaster speech I talked about how I listen to experience music. I’ve been wanting to write about it, so here it is.
+In my first toastmaster speech I talked about how I <strike>listen to</strike> experience music. I’ve been wanting to write about it, so here it is.
 
 I use [Spotify](http://spotify.com) to stream my music. My requirements are simple. I need music to be where ever I am, I need a service with a large music library, and I need to be able to organize my library in a way that works for me. Spotify is by far the best at those three things.
 
