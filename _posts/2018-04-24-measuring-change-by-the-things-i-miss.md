@@ -8,7 +8,7 @@ tags: personal, life, washington, relocating
 description: Blog entry about how I measure the things that have changed in the last year
 ---
 
-![Winter in Ellensburg from inside my house.]({{ site.siteurl }}/public/posts/eburg-winter.gif)
+![Winter in Ellensburg from inside my house.]({{ site.siteurl }}/public/posts/eburg-winter.gif){:.post-hero}
 *2018 Winter was a long one. This is what winter looked like from the inside of my house.*{:.image-caption .clearfix}
 
 ## Measuring change
