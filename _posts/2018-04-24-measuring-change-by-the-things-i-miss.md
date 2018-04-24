@@ -31,7 +31,7 @@ This winter wasn’t as rough as last, but it feels like it has been twice as lo
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/rROtyA6MtWU?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
-*The year that ~~I broke up with my wife~~ my wife broke up with me, this song got me through the sadness. I feel foolish to have trusted in a god that let me down so much. I need a better god.*{:.image-caption .clearfix}
+*The year that ~~I broke up with my wife~~ my wife broke up with me, this song got me through the sadness.*{:.image-caption .clearfix}
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
