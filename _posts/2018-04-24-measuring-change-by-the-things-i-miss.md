@@ -12,8 +12,8 @@ description: Blog entry about how I measure the things that have changed in the 
 *2018 Winter was a long one. This is what winter looked like from the inside of my house.*{:.image-caption .clearfix}
 
 ## Measuring change
-This winter wasn’t as rough as last, but it feels like it has been twice as long. I have been in Washington just days shy of 20 months . I can’t measure the difference between what it was like to move here and now by the things that have changed, only by the things that I miss. These are only a hand full of them:
-* I miss music. I don’t listen to music as much as I did last year. My mind is so occupied with the things that I can’t get to that music doesn’t feel sacred like it did. This makes me really sad. 
+This winter wasn’t as rough as last, but it feels like it has been twice as long. I have been in Washington just days shy of 20 months. I have been trying to find a way to measure how life is different now from when I first got here, but I can’t find an adequate scale until last week. It is by the things that I miss. These are only a hand full of them:
+* I miss music. I don’t listen to music nearly as much as I did last year. My mind is so occupied with the things that I can’t get to that music doesn’t feel sacred like it did. This makes me really sad. 
 * I miss driving to Cle Elum on Saturday mornings. This became a sacred time for me. I spent an hour writing, drawing, and reading over cup of coffee and a cinnamon twist. Besides being therapeutic, this time gave me a chance to plan things like how I want to spend my time, what kind of person I want to be and what kind of person I don’t want to be. Without that time I feel stuck.
 * I miss journaling. Like music, journaling made me a bit more introspective. It forced me to look more, to listen more, to feel more.
 * I miss my early morning routine. It included cleaning, prepping food for mom, prepping lunch, meditating, and spending time with my cats. 
