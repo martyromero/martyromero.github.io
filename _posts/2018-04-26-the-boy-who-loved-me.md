@@ -29,7 +29,7 @@ After Will’s visit, and after learning how Ricky felt about me and the convers
 
 I shared my experience with a handful of my friends (mutual friends of Ricky) that I trusted, but I did so with a humiliating tone. I shared it as I would share a scandalous story. It was nothing more than gossip about Ricky, about my friend. To this day I don’t know if Ricky ever found out that I shared his private conversations with Will or his feelings for me. 
 
-With time, Ricky and I stopped being friends. Our friendship just  wilted away  died. I feel embarrassed about how I reacted the night that Will showed up at my house to pass on Ricky’s message. **“Tell him that I am NOT gay!”** I demanded, and bolted out of his car. I felt offended and even violated in a way. Neither he (Will) or Ricky ever brought up the topic again, but I wish that had been kinder. I wish that had been loving in the same way that the kids in the video above are to each other. 
+With time, Ricky and I stopped being friends. Our friendship just ~~wilted away~~ died. I feel embarrassed about how I reacted the night that Will showed up at my house to pass on Ricky’s message. **“Tell him that I am NOT gay!”** I demanded, and bolted out of his car. I felt offended and even violated in a way. Neither he (Will) or Ricky ever brought up the topic again, but I wish that had been kinder. I wish that had been loving in the same way that the kids in the video above are to each other. 
 
 I don’t know what became of Ricky (or Will), but I hope that he was able to find a loving partner and a happy life.
 
@@ -43,3 +43,4 @@ I don’t know what became of Ricky (or Will), but I hope that he was able to fi
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
 
 [1]:	http://www.rooseveltlausd.org/ "Roosevelt High School - Boyle Heights California"
+
