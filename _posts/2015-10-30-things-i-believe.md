@@ -20,15 +20,14 @@ Anyhow, the Mormon missionaries have been coming by recently and their visit has
 4. I believe that all scripture (LDS and non) is fallible.
 5. I believe that all scripture is good.
 6. I believe that a genuine relationship with oneself is more important than an artificial relationship with "God."
-7. I believe that the universe has seen my story unfold one million times before. I too will grow old and die and be forgotten. I am not unique. I am peacefully comfortable with this.
-8. I believe that the best thing that I can do with my time in this beautiful planet, is be the best human being that I can be. Especially to the people who are closest to me.
-9. I believe that I have always misunderstood the concept of "God", and that is OK.
-10. I believe that "being true to oneself" is selfish.
-11. I believe that we should be true to our word no matter the cost. This lesson has come at a steep price.
-12. I believe in the power of music to heal, more than in the "power of prayer."
-13. I believe that religion has become an obstacle to #8.
-14. I believe that some people are evil.
-15. I believe that most people are kind.
-16. I believe the following more now than at any other time in my life:
+7. I believe that the best thing that I can do with my time in this beautiful planet, is be the best human being that I can be. Especially to the people who are closest to me.
+8. I believe that I have always misunderstood the concept of "God", and that is OK.
+9. I believe that "being true to oneself" is selfish.
+10. I believe that we should be true to our word no matter the cost. This lesson has come at a steep price.
+11. I believe in the power of music to heal, more than in the "power of prayer."
+12. I believe that religion has become an obstacle to #7.
+13. I believe that some people are evil.
+14. I believe that most people are kind.
+15. I believe the following more now than at any other time in my life:
 
 >The real violence, the violence that I realized was unforgivable, is the violence that we do to ourselves when we're too afraid to be who we really are." - Nomi (Sense8, Season 1, Episode 2).
