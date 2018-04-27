@@ -14,7 +14,15 @@ description: Sometimes I follow a trail of videos on YouTube and find one that t
 *Sometimes I follow a trail of videos on YouTube and find one that takes me back to times or events in my past that I had all but forgotten. This video reminded me of an episode from high school that makes me sad.*{:.image-caption .clearfix}
 
 ## He was in love with me
-When I was seventeen a boy from our rival high school asked Will—our drum major—to pass on a message to me. It was a short message “Marty, I am in love with you. If you feel the same way too, please let me know.” Will showed up at my house one night and asked to speak with me. He said “If you two are in love I will help bring you two together. I will pick you both up and you guys can make out, hold hands, or what ever and I won’t be grossed out.” 
+When I was seventeen, a boy from our [rival high school][1] asked Will—our drum major—to pass on a message to me. It was a short message 
+
+{:.pull-quote}
+“Marty, I am in love with you. If you feel the same way too, please let me know.” 
+
+Will showed up at my house one night and asked to speak with me. He said 
+
+{:.pull-quote}
+“If you two are in love I will help bring you two together. I will pick you both up and you guys can make out, hold hands, or what ever and I won’t be grossed out.” 
 
 I was surprised by the message and by how serious Will described Ricky’s feelings for me. He told me that Ricky spent hours on the phone with him describing the torture of being in love with me without a way to know if I felt the same way. I liked Ricky. We had become friends during our many meet ups at band competitions. Our high schools were the only two from East L.A. competing against valley schools and though we should have been rivals, we felt a camaraderie when we were away from home. 
 
@@ -32,3 +40,5 @@ I don’t know what became of Ricky (or Will), but I hope that he was able to fi
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
+
+[1]:	http://www.rooseveltlausd.org/ "Roosevelt High School - Boyle Heights California"
