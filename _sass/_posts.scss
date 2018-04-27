@@ -92,10 +92,10 @@ article {
     overflow: visible;
 }
   em.image-caption {
-    display: inline-block;
+    display: block;
     font-size: 75%;
     opacity: .5;
-    float: right;
+    // float: right;
     margin-bottom: 30px;
   }
 }
