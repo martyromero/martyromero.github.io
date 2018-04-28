@@ -20,7 +20,7 @@ As far as I know, that former bishop is still an active member of the church and
 
 I have a lot of Mormon friends that would look at a woman like Denson and say "Oh she's an anti-Mormon." But I hope that they can look beyond their own bias and call things for what they are. 
 
-The Mormon church's policies and procedures are set up to protect sexual predators, and when I think of my mom being sexually accosted by a man who was allegedly "called of God" to be a spiritual leader, I feel angry and sick to my stomach.
+The Mormon church's policies and procedures are set up to protect sexual predators, and when I think of my mom being sexually accosted by a man who was allegedly "called of God" to be her spiritual leader, I feel angry and sick to my stomach.
 
 My mom remains a fervent Mormon believer (despite her recent Catholic practices). She is fortunate that her ~~experience~~ assault was not more than advances. 
 
