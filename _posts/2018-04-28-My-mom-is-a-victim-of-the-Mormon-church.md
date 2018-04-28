@@ -22,7 +22,7 @@ I have a lot of Mormon friends that would look at a woman like Denson and say "O
 
 The Mormon church's policies and procedures are set up to protect sexual predators, and when I think of my mom being sexually accosted by a man who was allegedly "called of God" to be a spiritual leader, I feel angry and sick to my stomach.
 
-My mom remains a fervent Mormon believer (despite her recent Catholic practices). She is fortunate that her \-\-experience\-\- assault was not more than advances. 
+My mom remains a fervent Mormon believer (despite her recent Catholic practices). She is fortunate that her ~~experience~~ assault was not more than advances. 
 
 **When I wrote this, I was listening to this song :**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
@@ -35,3 +35,4 @@ My mom remains a fervent Mormon believer (despite her recent Catholic practices)
 
 [1]:	https://www.huffingtonpost.com/entry/mckenna-denson-mormon-church-abuse-lawsuit_us_5ac68734e4b0337ad1e5f7f1
 [2]:	https://www.huffingtonpost.com/entry/mckenna-denson-mormon-church-abuse-lawsuit_us_5ac68734e4b0337ad1e5f7f1
+
