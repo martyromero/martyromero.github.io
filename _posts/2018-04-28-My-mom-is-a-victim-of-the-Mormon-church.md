@@ -14,7 +14,7 @@ description: Mom has shared on a number of occasions about a former Mormon bisho
 *During the April 2018 general conference, [Crystal Legionaires][3] interrupted the conference by shouting, “stop protecting sexual predators .” *{:.image-caption .clearfix}
 
 ## Assaulted by her Bishop
-I have been following the story of [McKenna Denson][2] closely. It is of particular interest to me because my mom has shared on a number of occasions about a former Mormon bishop who made sexual advances towards her multiple times when we first joined the Mormon church. 
+I have been following [McKenna Denson's][2] story closely. It is of particular interest to me because my mom has shared on a number of occasions about a former Mormon bishop who made sexual advances towards her multiple times when we first joined the Mormon church. 
 
 As far as I know, that former bishop is still an active member of the church and was/has never been held accountable. 
 
