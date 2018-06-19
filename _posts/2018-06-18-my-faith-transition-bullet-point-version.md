@@ -8,10 +8,9 @@ tags: personal, life, lgbtq, homophobia, faith
 description: I have been spending some time making a list of significant things in my past that have contributed to my faith transition. These are just in list form and in no particular order of importance.
 ---
 
-## My "Faith Transition"
-I have been spending some time making a list of significant things in my past that have contributed to my faith ~~crisis~~ transition. These are just in list form and in no particular order of importance. I am not really wanting to comment on any of these, but I wanted to keep a list of significant events, ideas, moments etc., that feel important. 
+I have been spending some time making a list of significant things in my past that have contributed to my faith ~~crisis~~ transition. These are just in list form and in no particular order of importance. I am not really wanting to comment on any of these, but I did want to keep a list of significant events, ideas, moments etc., that feel important. 
 
-It's interesting to see how the majority of items happened or are centered around my early to mid 20s. 
+It's interesting to see how the majority of thee are centered around my early to mid 20s. 
 
 **5 - 10 years old**
 
@@ -19,9 +18,9 @@ It's interesting to see how the majority of items happened or are centered aroun
 
 * Asking God for a sign that I would find my lost kitten, and getting an answer.
 
-* Feeling peace so profoundly that I hated to go home Sundays after church service.
+* Feeling peace so profoundly that I hated to go home on Sundays after church service.
 
-* Trusting in the sign of the cross—a gesture made by my mom-before falling asleep, that without it I was scared.
+* Trusting in the sign of the cross—a gesture made by my mom—before falling asleep, that without it I was scared.
 
 **11 - 15 years old**
 
@@ -111,9 +110,7 @@ It's interesting to see how the majority of items happened or are centered aroun
 
 **When I wrote this, I was listening to this song :**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://youtu.be/k3pltmw6cmI?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
-
-*This is the song that was playing on the radio when I bolted out of Will’s 1992 Honda Civic Hatchback.*{:.image-caption .clearfix}
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/k3pltmw6cmI?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
