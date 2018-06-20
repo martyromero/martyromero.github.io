@@ -8,23 +8,23 @@ tags: personal, life, lgbtq, homophobia, faith
 description: I have been spending some time making a list of significant things in my past that have contributed to my faith transition. These are just in list form and in no particular order of importance.
 ---
 
-I have been spending some time making a list of significant things in my past that have contributed to my faith ~~crisis~~ transition. These are just in list form and in no particular order of importance. I am not really wanting to comment on any of these, but I did want to keep a list of significant events, ideas, moments etc., that feel important. 
+I have been spending some time making a list of significant things in my past that have contributed to my faith ~~crisis~~ transition. These are in no particular order of importance. I want to comment on any of these in particular, but I did want to keep a list of moments, memories, events, ideas etc., that feel important. They also make perfect topics for future blog posts.
 
 It's interesting to see how the majority of thee are centered around my early to mid 20s. 
 
 **5 - 10 years old**
 
-* Watching monks share the [Bhaghavad-Gita](https://www.asitis.com/){:target="_blank"} in the train station and being afraid of the pictures because I believed that they were of the devil. 
+* Watching monks share the [Bhaghavad-Gita](https://www.asitis.com/){:target="_blank"} in the train station and being afraid of the pictures because mom told me that they were devils.
 
 * Asking God for a sign that I would find my lost kitten, and getting an answer.
 
 * Feeling peace so profoundly that I hated to go home on Sundays after church service.
 
-* Trusting in the sign of the cross—a gesture made by my mom—before falling asleep, that without it I was scared.
+* Trusting in the sign of the cross—a gesture made by my mom—before falling asleep, that without it I felt scared.
 
 **11 - 15 years old**
 
-* Performing baptisms for the dead at the LA Temple and feeling a tangible "clean" feeling each time.
+* Performing baptisms for the dead at the LA Temple and feeling that I was morally "clean" each time.
 
 
 **16 - 19 years old**
@@ -36,7 +36,7 @@ It's interesting to see how the majority of thee are centered around my early to
 
 * Reading [*The Mormon Murders*](https://www.amazon.com/Mormon-Murders-Story-Forgery-Deceit/dp/1250025893){:target="_blank"} and feeling my testimony of the Mormon church shake more by that book than by reading [Anton LaVey's Satanic Bible](https://www.amazon.com/Satanic-Bible-Anton-Szandor-Lavey/dp/0380015390/ref=sr_1_1?s=books&ie=UTF8&qid=1529396950&sr=1-1&keywords=satanic+bible){:target="_blank"}.
 
-* Telling Eddie "Even if God himself told me that the Mormon church was wrong, I would not leave it."
+* Telling Eddie that "Even if God himself told me that the Mormon church was wrong, I would not leave it."
 
 * Not knowing how to answer the question "How difficult does it have to be?" by an evangelical preacher asking me why I believed that salvation was something that I had to work hard to earn. 
 
@@ -46,23 +46,23 @@ It's interesting to see how the majority of thee are centered around my early to
 
 * Lying to Ralph about receiving a confirmation about the Book of Mormon. 
 
-* Deciding to go on a Mission and driving to Bishop Cabrera's home at 1:00b a.m. to have my worthiness interview and get the process started. 
+* Deciding to go on a Mission and driving to Bishop Cabrera's home at 1:00 a.m. to have my worthiness interview and get the process started. 
 
-* Lying about my testimony and "spiritual experiences" to people I met while on a mission. 
+* Lying about my testimony and "spiritual experiences" to people I met on my mission. 
 
-* Realizing that other [denominations were NOT an abomination nor ALL of their professors/preachers were corrupt](http://classic.scriptures.lds.org/en/js_h/1/19#19){:target="_blank"}.
+* Realizing that other [denominations were NOT abominations nor ALL of their professors/preachers corrupt](http://classic.scriptures.lds.org/en/js_h/1/19#19){:target="_blank"}.
 
-* Realizing that the doctrine of the Atonement was the most beautiful idea in religion. 
+* Realizing that the doctrine of the Atonement was the most beautiful idea in all of Christianity. 
 
 * [Pastor Walter Knight](http://www.rockportpilot.com/people/article_e434e962-181e-5c34-824f-c74250d1c455.html){:target="_blank"} challenging me to list a single evidence for the Book of Mormon, and not being able to. 
 
 * Reading W. Kleon Skousen's [A Personal Search for the Meaning of the Atonement,](https://rcronk.wordpress.com/2007/07/27/a-personal-search-for-the-meaning-of-the-atonement/){:target="_blank"} and feeling that I had been in a state of slumber all of my life until then.
 
-* The absolute feeling of certainty that God would answer if I called during the most difficult time as a Branch President and missionary.
+* The absolute feeling of certainty that God would answer if I called during the most difficult times as a Branch President and missionary.
 
-* The tangible feeling in my chest to Gordon B. Hinkley's closing remarks in the 1997 October General Conference; ["I have a confession to make, my brothers and sisters. It is simply this: I love you."](https://www.lds.org/general-conference/1997/10/latter-day-saints-in-very-deed?lang=eng){:target="_blank"}
+* The tangible feeling in my chest listening to Gordon B. Hinkley's closing remarks in the 1997 October General Conference; ["I have a confession to make, my brothers and sisters. It is simply this: I love you."](https://www.lds.org/general-conference/1997/10/latter-day-saints-in-very-deed?lang=eng){:target="_blank"}
 
-* Feeling dishonest when saying the phrase "I know that this is the true church."
+* Feeling dishonest saying the phrase "I know that this is the only true church."
 
 * Feeling anxiety after reading Ed Decker's [*The God Makers*.](https://www.amazon.com/God-Makers-Shocking-Expose-Believes/dp/1565077172){:target="_blank"}
 
