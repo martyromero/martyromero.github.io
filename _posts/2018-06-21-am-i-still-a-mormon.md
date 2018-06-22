@@ -37,7 +37,7 @@ It's true that my attitude, beliefs, and opinions clash with Mormon orthodoxy, b
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/VlJbRVNd4Sc?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
-*Hymns are about the only aspect of religion that I trust to NOT trigger anxiety. This one—this particular arrangement—is one of my faavorites.*{:.image-caption .clearfix}
+*Hymns are about the only aspect of religion that I trust to NOT trigger anxiety. This one—this particular arrangement—is one of my favorites.*{:.image-caption .clearfix}
 
 
 {:.signature}
