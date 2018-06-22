@@ -33,7 +33,7 @@ In the talk [*A Gift of Dog Food*](https://books.google.com/books/about/A_Gift_o
 
 It's true that my attitude, beliefs, and opinions clash with Mormon orthodoxy, but I am neither Mormon, anti-Mormon, or non-Mormon. That answer will likely change as I change, but for now it is good enough.
  
-**When I wrote this, I was listening to this song :**
+**When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/VlJbRVNd4Sc?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
