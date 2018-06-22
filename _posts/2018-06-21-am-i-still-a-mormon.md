@@ -8,7 +8,7 @@ tags: personal, journal, religion, lds
 description: Last week my wife and I had a conversation where she said something along the lines of “…he knows that you use to be a Mormon.” That was an interesting phrase to hear, because I don’t consider myself non-Mormon. In fact, I still see myself as a Mormon.
 ---
 
-![East L.A. Stake Center building in Monterey Park California.]({{ site.siteurl }}/public/posts/elacsc.gif){:.post-hero}
+![East L.A. Stake Center building in Monterey Park California.]({{ site.siteurl }}/public/posts/elacsc.png){:.post-hero}
 *This is the East L.A. Stake Center. In 1981 I was baptized a member of the Mormon church in this building. This picture is from 1954, but the building hasn't changed much since.*{:.image-caption .clearfix}
 
 ## Am I still Mormon?
