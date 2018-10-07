@@ -8,7 +8,7 @@ tags: journal, blog, personal
 ---
 
 ![Fall 2018 sunrise in Ellensburg Washington.]({{ site.siteurl }}/public/posts/ellensburg-fall-2018-view-airport-drive.jpg){:.post-hero}
-*Sunrise in Ellensburg, Fall 2018. View East from Airport Drive.*{:.image-caption .clearfix}
+*Sunrise in Ellensburg, Fall 2018. View East from Airport Drive. Yes, I know it's upside down. It's more interesting.*{:.image-caption .clearfix}
 
 
 ## It's fall all over again
@@ -23,7 +23,7 @@ I am still getting use to what it means to have seasons. So far, they have been 
 4. **Sleep is everything**. I use to not mind functioning with little sleep. In fact, I use to brag about being able to function on 3-4 hours of sleep. But being tired all the time is not fun. Feeling tired also makes me prone to acting like a victim to how unfair life is. I suspect that this will become the next big 'thing' for me. That is to have good sleep. 
 5. **I don't want friends**. I don't know when this changed. I use to feel such a need to connect with others and make friends, but I don't so much anymore. I avoid occasions that present the opportunity to get to know people at work in a more personal level. Eric, Jon, and Dawn are the only few that I would befriend outside of work, but I decline every invitation to do anything outside of work with them. I am quite sure that this is NOT healthy. I am also quite sure that this is something that I don't want to think about. 
 6. **I want to be a dad**. The one relationship that I long for is to be my daughter's or my son's best friend. Maybe the fact that I am turning 45 this year has made me think about the one role that I don't hold--father--more. Sometimes I put myself in Rich Moreno's shoes and pretend that I have a similar relationship with my daughter as I see him have with his.
-7. **Complacency kills**. I don't feel new anymore. I have settled into a routine and that has made me complacent. Year one in Ellensburg was full of a lot of personal growth, albeit painful it was growth nonetheless. Year two hasn't been as much. 
+7. **Complacency kills**. I don't feel new anymore. I have settled into a routine and that has made me complacent. Year one in Ellensburg was full of a lot of personal growth, albeit painful it was growth nonetheless. Year two hasn't been as much.
  
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
