@@ -29,7 +29,7 @@ I am still getting use to what it means to have seasons. So far, they have been 
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/FP3-J4_Bw88?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
-*I absolutely love this version of Bob Dylan's "I'm in the mood for you" by Miley Cyrus.* {:.image-caption .clearfix}
+*I absolutely love this version of Bob Dylan's "I'm in the mood for you" by Miley Cyrus.*{:.image-caption .clearfix}
 
 
 {:.signature}
