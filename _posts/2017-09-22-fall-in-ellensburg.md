@@ -5,7 +5,6 @@ summary: How I am preparing for Fall
 category: blog
 comments: true
 tags: personal, life, music
-description: Here is my music playlist for this fall.
 ---
 
 ![Fall trees in Ellensburg Washington]({{ site.siteurl }}/public/posts/fall-eburg.jpg)
