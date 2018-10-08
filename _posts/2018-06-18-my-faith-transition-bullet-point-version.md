@@ -8,7 +8,7 @@ tags: personal, life, lgbtq, homophobia, faith
 description: I have been spending some time making a list of significant things in my past that have contributed to my faith transition. These are just in list form and in no particular order of importance.
 ---
 
-I have been spending some time making a list of significant things in my past that have contributed to my faith ~~crisis~~ transition. These are in no particular order of importance. I want to comment on any of these in particular, but I did want to keep a list of moments, memories, events, ideas etc., that feel important. They also make perfect topics for future blog posts.
+I have been spending some time making a list of significant things in my past that have contributed to my faith ~~crisis~~ transition. These are in no particular order of importance. I don't want to comment on any of these in particular, but I did want to keep a list of moments, memories, events, ideas etc., that feel important. They also make perfect topics for future blog posts.
 
 It's interesting to see how the majority of thee are centered around my early to mid 20s. 
 
