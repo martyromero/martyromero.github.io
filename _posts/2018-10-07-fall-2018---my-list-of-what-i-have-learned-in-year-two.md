@@ -15,7 +15,7 @@ tags: journal, blog, personal
 I am still getting use to what it means to have seasons. So far, they have been inconsistent in their timing, temperature, and color. In 2016, Fall came with a palette so vibrant and turned the town into all shades of red, yellow, orange, purple and blues unlike anything I had seen before. Last year not so much--or rather, not so early. This year it's just different. 
 
 ## Year two in Ellensburg
-[Fall is my time of the year to reflect on the past 12 months](http://martyromero.me/fall-in-ellensburg) and list the things that I have learned in the past twelve months.
+[Fall is my time of the year to reflect on the past 12 months](http://martyromero.me/fall-in-ellensburg) and list the things that I have learned in the past year.
 
 1. **I don't have to be right**. I found myself in a lot of conversations where I wished I would have just shut up earlier than I did. I am beginning to see that I struggle with this. I don't always need to be right.
 2. **Sequence is more important than patterns**. I have noticed that I place a lot of weight on understanding clearly how I get from A to Z, or 1 to 10, more so, than what it all means. In this stage of my life, sequence is more useful. This probably stems from the last four years of trying to understand the series of events and decisions that brought me to where I am today. And it is interesting because I have always been more of an Intuitive than a Sensor. I don't know if this is a permanent change, but it is one that has been useful to notice.
