@@ -27,7 +27,7 @@ I love you Fluffs!
  
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/XoH86W6C?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/XoH86W6CM_A?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
 *A cover of Timbalada's 'Beija Flor.' It's a love song about a man who has to leave his lover, and sings about longing to love her and keep her close. It's sad, yet recognizes the celebration that is love*{:.image-caption .clearfix}
 
