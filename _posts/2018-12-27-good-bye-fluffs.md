@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good-bye Fluffs. Letting go of a dying pet.
+title: Good-bye Fluffs.
 summary: I held Fluffs in my arms today and said good-bye to him..
 category: blog
 comments: true
@@ -9,7 +9,7 @@ description: I held Fluffs in my arms today and said good-bye to him. He was wit
 ---
 
 ![This is my mother.]({{ site.siteurl }}/public/posts/fluffs-good-bye.jpg){:.post-hero}
-*Fluffs exploring our snow covered back yard for the first time. This picture was taken two days before he passed away. Though he looks strong, his kidneys were close to shutting down and he was pretty weak. *{:.image-caption .clearfix}
+*Fluffs exploring our snow covered back yard for the first time. This picture was taken two days before he passed away. Though he looks strong, his kidneys were close to shutting down and he was pretty weak.*{:.image-caption .clearfix}
 
 ## Good-Bye Fluffs
 I called him my puppy, because he followed me around the house.
