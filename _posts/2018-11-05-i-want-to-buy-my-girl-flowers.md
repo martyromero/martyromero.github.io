@@ -8,7 +8,7 @@ tags: personal, life, journal, love
 description: I use to drive to Cle Elum every weekend when we first moved to Ellensburg. I spent a lot of time writing and thinking. Much of what I wrote and thought about had to do with my wife. I wrote this thinking about her.
 ---
 
-![This is my mother.]({{ site.siteurl }}/public/posts/i-want-to-buy-my-girl-flowers.jpg){:.post-hero}
+![A little thing I wrote two years ago.]({{ site.siteurl }}/public/posts/i-want-to-buy-my-girl-flowers.jpg){:.post-hero}
 *I use to drive to Cle Elum every weekend when we first moved to Ellensburg. I spent a lot of time writing and thinking. Much of what I wrote and thought about had to do with my wife. I wrote this thinking about her.'*{:.image-caption .clearfix}
 
 ## I want to buy her flowers

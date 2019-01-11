@@ -8,7 +8,7 @@ tags: personal, life, journal, cat, pet, euthanasia,
 description: I held Fluffs in my arms today and said good-bye to him. He was with us for just over two years, but we were really his for about twice as long.
 ---
 
-![This is my mother.]({{ site.siteurl }}/public/posts/fluffs-good-bye.jpg){:.post-hero}
+![A picture of my cat Fluffs.]({{ site.siteurl }}/public/posts/fluffs-good-bye.jpg){:.post-hero}
 *Fluffs exploring our snow covered back yard for the first time. This picture was taken two days before he passed away. Though he looks strong, his kidneys were close to shutting down and he was pretty weak.*{:.image-caption .clearfix}
 
 ## Good-Bye Fluffs

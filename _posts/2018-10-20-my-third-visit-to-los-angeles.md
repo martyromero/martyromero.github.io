@@ -8,7 +8,7 @@ tags: personal, los angeles, life, journal, friendship
 description: I've been back to L.A. three times now since we left two years ago. I was surprised to realize that the 'friend' that I missed the most was the city itself.
 ---
 
-![This is my mother.]({{ site.siteurl }}/public/posts/post-los-angeles-visit.jpg){:.post-hero}
+![Los Angeles City Hall Building.]({{ site.siteurl }}/public/posts/post-los-angeles-visit.jpg){:.post-hero}
 *This is City Hall in L.A. It's the where the 'Occupy' movement took place. It is also my favorite childhood building. I use to think that this was the building from which Superman flew out of and into in the show 'The Adventures of Superman.'*{:.image-caption .clearfix}
 
 ## Hello Los Angeles
