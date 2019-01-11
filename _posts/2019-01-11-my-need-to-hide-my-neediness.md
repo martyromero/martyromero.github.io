@@ -1,35 +1,31 @@
 ---
 layout: post
-title: Good-bye Fluffs.
-summary: I held Fluffs in my arms today and said good-bye to him..
+title: My need to hide my neediness
+summary: Ever since Fluffs died I have been feeling more needy than usual.
 category: blog
 comments: true
-tags: personal, life, journal, cat, pet, euthanasia, 
-description: I held Fluffs in my arms today and said good-bye to him. He was with us for just over two years, but we were really his for about twice as long.
+tags: personal, life, journal, connection, neediness, 
 ---
 
-![A picture of my cat Fluffs.]({{ site.siteurl }}/public/posts/fluffs-good-bye.jpg){:.post-hero}
-*Fluffs exploring our snow covered back yard for the first time. This picture was taken two days before he passed away. Though he looks strong, his kidneys were close to shutting down and he was pretty weak.*{:.image-caption .clearfix}
+![A picture of me at thirteen.]({{ site.siteurl }}/public/posts/marty-romero-young.jpg){:.post-hero}
+*My sister took this picture of me when I was thirteen. Looking at it makes me wonder if I was already as wounded and messed up as I feel now that I am forty-five.*{:.image-caption .clearfix}
 
-## Good-Bye Fluffs
-I called him my puppy, because he followed me around the house.
+## I am needy
+Ever since Fluffs died I have been feeling more needy than usual. The feeling frustrates me and I become short tempered. Just writing this and reccognizing my neediness feels like a knott is building up in my chest and it's forcing me to gulp for air. I can't pin point where in my body the feeling itself resides though. It's ellusive, and it's deep. 
 
-I held Fluffs in my arms today and said good-bye to him. He was with us for just over two years, but we were really his for about twice as long. We couldn't bear to leave him behind in L.A. so we brought him with us. He became an indoor cat with the rest of his siblings. We think that he was happy, but he longed to be outdoors. 
+What I hate most about it is that it makes me start to act in ways that make others feel guilty or inadequate for not knowing what I'm feeling or how to help me. Sometimes I want to scream in anger to myself for not admiting that when I am lonely I hate feeling alone, that when I am hurt I want someone to heal me, and that when I am scared  I want someone to protect me.
 
-What was it about a seemingly periphery pet that dug so deep in my heart as to leave such a hole now that he is gone? He was a protector with a wicked stare, but at heart he was the sweetest cat. 
+## I don't know what I am needy for
+Why do I feel so scared to admit my neediness? Instead, I pretend that loneliness doesn't hurt me, and that I can protect myself and lick my own wounds until they heal.
 
-It would be sinful to say that his short life did not impact mine. He was slow to anger even when encroached by any of his seven other siblings. He played hard, slept well and loved us deeply.
-
-I am deeply saddened and since this afternoon when we said good-bye I will suddenly feel a tightness build up in my chest, and my eyes swell with tears even without thinking of him. It's like my body knows that something is missing. I want to mourn, but I want to also celebrate the memories, the love and kindness that he filled my heart and home with. 
-
-I love you Fluffs!
-
+The truth is that most times I don't know what I need nor what I am feeling. Right now though, I just want to curl up in bed with Fluffs and feel his purring on my chest. I miss him.
  
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/XoH86W6CM_A?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/L3iwJKjw2iI?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
-*A cover of Timbalada's 'Beija Flor.' It's a love song about a man who has to leave his lover, and sings about longing to love her and keep her close. It's sad, yet recognizes the celebration that is love*{:.image-caption .clearfix}
+*This song was written by Tom Waits for a play called Woyzeck. The play is a bit dark and so is this song, but I really like it. *{:.image-caption .clearfix}
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
+
