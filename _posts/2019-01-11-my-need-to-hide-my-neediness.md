@@ -13,7 +13,7 @@ tags: personal, life, journal, connection, neediness,
 ## I am needy
 Ever since Fluffs died I have been feeling more needy than usual. The feeling frustrates me and I become short tempered. Just writing this and reccognizing my neediness feels like a knott is building up in my chest and it's forcing me to gulp for air. I can't pin point where in my body the feeling itself resides though. It's ellusive, and it's deep. 
 
-What I hate most about it is that it makes me start to act in ways that make others feel guilty or inadequate for not knowing what I'm feeling or how to help me. Sometimes I want to scream in anger to myself for not admiting that when I am lonely I hate feeling alone, that when I am hurt I want someone to heal me, and that when I am scared  I want someone to protect me.
+What I hate most about it is that it makes me start to act in ways that makes others feel guilty or inadequate for not knowing what I'm feeling or how to help me. Sometimes I want to scream in anger at myself for not admiting that when I am lonely I hate feeling alone, that when I am hurt I want someone to heal me, and that when I am scared  I want someone to protect me.
 
 ## I don't know what I am needy for
 Why do I feel so scared to admit my neediness? Instead, I pretend that loneliness doesn't hurt me, and that I can protect myself and lick my own wounds until they heal.
