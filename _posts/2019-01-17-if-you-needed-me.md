@@ -7,7 +7,7 @@ comments: true
 tags: personal, life, journal, connection, fear, love 
 ---
 
-Beth shared a moment of sadness with me today. It was about not having children and it made me sad also. We have been together for so long and I still don't know how to ease her pain. I don't know how to protect her and that frightens me to my core. I am sad with her!
+My wife shared a moment of sadness with me today. It was about not having children and it made me sad also. We have been together for so long and I still don't know how to ease her pain. I don't know how to protect her and that frightens me to my core. I am sad with her!
 
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
