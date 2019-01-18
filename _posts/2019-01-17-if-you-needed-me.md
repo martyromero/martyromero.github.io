@@ -7,7 +7,7 @@ comments: true
 tags: personal, life, journal, connection, fear, love 
 ---
 
-I shared a song with my wife earlier this week that I have been listening to a lot lately. The original was written by Townes Van Zandt in 1972, but the version linked below is from the soundtrack to the movie “Broken Circle Breakdown.” I already liked the song for the song’s sake, but juxtaposed against the movie, it is a sweet reminder of one life’s most wretched tragedies, and a fear that saddens me to my core—not knowing how to, or not being able able to protect the people that I love deeply or ease their pain. [I have written before](/i-owe-this-song-to-my-friends) about how some songs have an uncanny ability to express emotions that words alone often cannot, and I think this is one of them.
+I shared a song with my wife earlier this week that I have been listening to a lot lately. The original was written by Townes Van Zandt in 1972, but the version linked below is from the soundtrack to the movie [“Broken Circle Breakdown.”](https://www.imdb.com/title/tt2024519/) I already liked the song for the song’s sake, but juxtaposed against the movie, it is a sweet reminder of one life’s most wretched tragedies, and a fear that saddens me to my core—not knowing how to, or not being able able to protect the people that I love deeply or ease their pain. [I have written before](/i-owe-this-song-to-my-friends) about how some songs have an uncanny ability to express emotions that words alone often cannot, and I think this is one of them.
 
 My wife shared a moment of sadness with me today. It was about not having children and it saddened me also. We have been together for so long and I still don't know how to ease her pain. I don't know how to protect her. I am sad with her.
 
