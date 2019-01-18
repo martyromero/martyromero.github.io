@@ -33,7 +33,7 @@ Perhaps the thing that I miss the most, is the feeling of comfort, and knowing e
 Sharing a history with a particular building or a particular place the same way that I would with a friend. Remembering the place where I first kissed my first girlfriend, or where I got pulled over for driving carelessly because I was just learning how to drive stick. And then all the spots where mom and I waited for the bus to take us to Santa Monica, Marina Del Rey, Venice, San Fernando Valley, and others to get to her job. 
 
 ## Coming home
-Still, none of it compares to having a home and someone to come home to. I drove past our last home in L.A. and realized that I couldn't park because it wasn't home. I missed my wife, mom and cats terribly just then. All of what I missed in L.A. lost at that very moment and I wanted to be home. Yes, I have a home and it is not Ellensburg, or L.A. or any other place. My home is Beth.
+Still, none of it compares to having a home and someone to come home to. I drove past our last home in L.A. and realized that I couldn't park because it wasn't home. I missed my wife, mom and cats terribly just then. All of what I missed in L.A. lost at that very moment and I wanted to be home. Yes, I have a home and it is not Ellensburg, or L.A. or any other place. My home is my wife.
  
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>

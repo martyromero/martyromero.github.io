@@ -19,7 +19,7 @@ I felt a deep sadness last night. After dinner my thoughts where all over the pl
 I go from emotionally numb to emotionally unstable within minutes. And over the last couple of weeks I have felt a heightened need for sex. I've began to masturbate more, even to the point of giving my wife a weekly schedule so she can avoid our bedroom during those times. I am thinking about getting on Zoloft again, but I hate the side effects.  
 
 ## I feel disconnected
-Two days I visited my Facebook profile and was greeted with one of those "One year ago today..." memories that have become popular. This one was a post from two years ago when I last hung out with Amy in Seattle. After that time I stopped communicating with her and didn't hang out with her again until this past October. 
+Two days I ago I visited my Facebook profile and was greeted with one of those "One year ago today..." memories that have become popular. This one was a post from two years ago when I last hung out with Amy in Seattle. After that time I stopped communicating with her and didn't hang out with her again until this past October. 
 
 Seeing that post made me feel so disconnected. The thought dawned over me that I am forty-five and that I don't have a single person that I can call a friend. That is a bit melodramatic because I know at least three individuals that I can call and neither time nor distance would have gotten in the way of just picking up where we left off. But I don't really connect with them anymore.
 
