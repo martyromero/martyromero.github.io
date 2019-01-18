@@ -13,7 +13,7 @@ Beth shared a moment of sadness with me today. It was about not having children 
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/CkpDDngb1Ew?start=3&end=189&version=3&amp;rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
-*I shared this song with my wife a few days ago. It's a beautiful duet written by Townes Van Zandt in 1972. This version is from the movie "The Broken Circle Breakdown." I have already written about certain songs that so profoundly express one's feelings. This song is one of them, and the movie is just magnificent. There is a swedish version of the song [Om jag behövde dig](https://youtu.be/rpqHRQDoI3g) that I also love.*{:.image-caption .clearfix}
+*I shared this song with my wife a few days ago. It's a beautiful duet written by Townes Van Zandt in 1972. This version is from the movie "The Broken Circle Breakdown" which is magnificent. I have already written about certain songs that so profoundly express one's feelings. This song is one of them. There is a swedish version of the song [Om jag behövde dig](https://youtu.be/rpqHRQDoI3g) that I also love.*{:.image-caption .clearfix}
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
