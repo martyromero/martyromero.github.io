@@ -22,7 +22,7 @@ At times, I get mom to a point where she seems to begin to understand that it is
 Sometimes I wonder if I am wrong and they are right. Is it really the Devil? Has satan taken or an evil spirit (is there a difference?) taken residence in a part of mom's life? If it's true, then satan is a pretty shitty marketer. Newsflash, scaring people is NOT a good strategy to win them over to your side. Then again, some will say that satan's strategy is not to win people over to his side, but just to make people miserable. Newsflash! again, satan is NOT required to make life miserable. Life is just shitty sometimes. People get sick, and people die. If mom believed that, instead of believing that satan is at her door, she would not be as scared as she is. But I can never understand her reality. And that is the shitty thing about dementia. ugh!
 
 ## Thank you
-I really don't deserve my wife. I am keeping score of the things we have endured for each other and I am loosing. Thank you Beth. 
+I really don't deserve my wife. I am keeping score of the things we have endured for each other and I am loosing. Thank you. 
  
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>

@@ -71,7 +71,7 @@ It's interesting to see how the majority of thee are centered around my early to
 
 **26 - 30 years old**
 
-* Being disappointed at the shallowness of my childhood friends' conversion compared to Beth and her friends.
+* Being disappointed at the shallowness of my childhood friends' conversion compared to my wife and her friends.
 
 * Believing that I was disgusting, unclean, and unworthy to associate with God because of masturbation, and the deep shame and sorrow that followed. I remember bargaining with God, to [help me stop sinning](http://martyromero.me/discovering-my-masturbation-myths).
 
@@ -84,9 +84,9 @@ It's interesting to see how the majority of thee are centered around my early to
 
 * Coming to the conclusion that the [images of Joseph Smith translating the Book of Mormon](http://www.mrm.org/wp-content/uploads/2017/12/ensign-feb-2001.jpg){:target="_blank"} as are presented by the LDS Church were a type of dishonesty.
 
-* Turmoil over marrying Beth.
+* Turmoil over marrying my wife.
 
-* The peaceful feeling I had when I decided to marry Beth.
+* The peaceful feeling I had when I decided to marry my wife.
 
 
 **36 - 40 years old**
