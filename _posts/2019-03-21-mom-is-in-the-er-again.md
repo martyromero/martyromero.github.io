@@ -10,9 +10,10 @@ tags: personal, life, journal, mom, sick
 ![Mom being rolled out of the house by the EMTs]({{ site.siteurl }}/public/posts/er-1.jpg){:.post-hero}
 *Mom had to be carried out of her room in her sleeping bag because the bed wouldn't fit through the door. She was transported to [KVH](https://www.kvhealthcare.org/).*{:.image-caption .clearfix}
 
-She was just where I left her two hours earlier when I stepped out of the house for work. I checked in on her every hour on the hour throughout the night, but and she never really moved. I do loved seeing her sleep but seeing her sleep through the night without waking up is not normal, and it worried me. 
+She was just where I left her two hours earlier when I stepped out of the house for work. I checked in on her every hour on the hour throughout the night, but she never really moved. I do love seeing her sleep but when she sleeps through the night without waking up worries me because it is not normal. 
 
 **Update 9:07am**
+
 She is in the ER. My anxiety is through the roof. My entire body feels tense. The tension is keeping me from collapsing because it is difficult for me to listen to how she struggles to simply breathe. 
 
 **Update 9:20am**
