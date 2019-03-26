@@ -38,7 +38,7 @@ She is now getting a second bag of fluids, steroid to help her breathe and then 
 Here is what I know. She is already compromised with her weak body, asthma, and recent treatment for [Hypoxema](https://en.wikipedia.org/wiki/Hypoxemia) only two weeks ago. Sometime in the night hours she developed symptoms of [Sepsis](https://en.m.wikipedia.org/wiki/Sepsis) which is dangerous and life threatening. She also has pneumonia and an infection. Right now treatment is more of a balancing act than anything else. More fluids help rid the body of bacteria/virus, but too much weakens ability to treat Sepsis'. Too little could improve her vitals but then needs antibiotics which could react badly to an already weakened body.
 
 We are waiting on [BNP](https://my.clevelandclinic.org/health/diagnostics/16814-nt-prob-type-natriuretic-peptide-bnp) results to determine if her heart is failing. If the hormone is not in the blood stream then her heart is likely to be ok, but every minute that I have to wait to know the results feels like murder to me.
-![Mom in the hospital room]({{ site.siteurl }}/public/posts/er-2.jpg){:.post-hero}
+![Mom in the hospital room]({{ site.siteurl }}/public/posts/er-3.jpg){:.post-hero}
 *She mostly slept, occasionally being woken up to get her vitals or have an oxygen treatment.*{:.image-caption .clearfix}
 
 **Update 11:52am**
