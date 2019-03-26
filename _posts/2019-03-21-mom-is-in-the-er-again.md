@@ -20,7 +20,7 @@ She is in the ER. My anxiety is through the roof. My entire body feels tense. Th
 
 [When Fluffs left us](http://martyromero.me/good-bye-fluffs) a few months ago, I had a thought that perhaps his role, or rather the reason why he left so sudden and so quick was to prepare me to say good-bye to mum. 
 
-I burned into my mind and heart the feeling of his little lifeless body in my arms and I relive it at random moments since. When I look at mum I wonder if in the next little bit I will be holding her in a similar manner. The thought makes me want to cry. 
+I burned the feeling of his little lifeless body in my arms into memory and have relived it at random moments since we let him go in December. When I look at mum I wonder if in the next little bit I will be holding her in a similar manner. The thought makes me want to cry. 
 ![Mom in the ER]({{ site.siteurl }}/public/posts/er-2.jpg){:.post-hero}
 *She doesn't remember the ER at all. Though she was answering basic questions, she was mostly like this in the ER.*{:.image-caption .clearfix}
 
