@@ -14,7 +14,7 @@ description: Mom has shared on a number of occasions about a former Mormon bisho
 *During the April 2018 general conference, [Crystal Legionaires][3] interrupted the conference by shouting, “stop protecting sexual predators .” *{:.image-caption .clearfix}
 
 ## Assaulted by her Bishop
-I have been following [McKenna Denson's][2] story closely. It is of particular interest to me because my mom has shared on a number of occasions about a former Mormon bishop who made sexual advances towards her multiple times when we first joined the Mormon church. 
+I have been following [McKenna Denson's][2] story closely. It is of particular interest to me because my mom shared on a number of occasions about a former Mormon bishop who made sexual advances towards her multiple times when we first joined the Mormon church. 
 
 As far as I know, that former bishop is still an active member of the church and was/has never been held accountable. 
 
@@ -22,7 +22,7 @@ I have a lot of Mormon friends that would look at a woman like Denson and say "O
 
 The Mormon church's policies and procedures are set up to protect sexual predators, and when I think of my mom being sexually accosted by a man who was allegedly "called of God" to be her spiritual leader, I feel angry and sick to my stomach.
 
-My mom remains a fervent Mormon believer (despite her recent Catholic practices). She is fortunate that her ~~experience~~ assault was not more than advances. 
+My mom remained a fervent Mormon believer (despite her Catholic practices). She was fortunate that her ~~experience~~ assault was not more than advances. 
 
 **When I wrote this, I was listening to this song :**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>

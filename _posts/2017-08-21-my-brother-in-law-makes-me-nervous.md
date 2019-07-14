@@ -18,10 +18,10 @@ My wife turned thirty-three the year that we got married. Like most gals, she lo
 
 It saddened me to see her hurt by his refusal. I was so happy that night, but it saddened me to see her walk by herself down the isle towards me that evening. Now, it just makes me angry to think about it.
 
-In the years that have passed since the wedding, I wonder if my brother in law has considered what it was that he taught his kids about God that day, or if he ever noticed how hurtful it was to my wife that he refused her? He has never apologized to her, so I doubt that he has given it a second thought. I believe that his intentions were to be a good Christian father and a good example to his kids. But he wasn’t. He set an example of a "Christian" life that I don’t want to live, and an example of a decision-making process that symbolizes everything that makes me nervous about religious folk.
+In the years that have passed since the wedding, I wonder if my brother in law has considered what it was that he taught his kids about God that day, or if he ever noticed how hurtful it was then to my wife that he refused her? He never apologized to her, so I doubt that he has given it a second thought. I believe that his intentions were to be a good Christian father and a good example to his kids. But he wasn’t. He set an example of a "Christian" life that I don’t want to live, and an example of a decision-making process that symbolizes everything that makes me nervous about religious folk.
 
 ## What he taught me
-The lesson that I saw him impart with his choice was this; in the name of God it is ok to be selfish and unkind. If God indeed accepted my brother in law’s offering (that of not being a part of my wife’s wedding day), then I believe that the God that my brother in law worships is a false God and one that I don’t ever want to worship.
+The lesson that I saw him impart with his choice was this; in the name of God it is ok to be selfish and unkind. If God indeed accepted my brother in law’s offering (that of not being a part of his sister's wedding day), then I believe that the God that my brother in law worships is a false God and one that I don’t ever want to worship.
 
 My brother in law is a good man, and one of the most responsible men I know. But I just realized that when he talks about church, God, bible study, salvation etc., he make me nervous and I don’t trust him.
 
