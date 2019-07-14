@@ -71,9 +71,10 @@ Dr. Gibbs informed us that it was Pneumonia. Although she showed many signs of S
 
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/Y0oeqL2uvFA?start=09&version=3&amp;rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/qmvhtB9s4yk?start=3&end=189&version=3&amp;rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
 *I shared this with a friend once. The reply I got back was "Why does this song make me want to cry?" Music is like that. Right now, this song makes me feel resolved.*{:.image-caption .clearfix}
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
+

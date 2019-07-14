@@ -11,8 +11,8 @@ description: I answer my wife's question about why I don't blog about music.
 ![Some people believe in god. I believe in music. Some people pray, I turn up the radio. -Jared Leto.]({{ site.siteurl }}/public/posts/leto-music.jpg)
 *I hate meme-type images, but this is pretty fitting. I feel like this a lot.*{:.image-caption .clearfix}
 
-## My wife asked
-Yesterday my wife asked me, “why don’t you have a music blog, since music seems to be so therapeutic for you?” (paraphrasing). I wasn’t sure how to answer, so I’ve thought about it all day and I think that I could give her a better answer today.
+## Music question
+Yesterday I was asked me, “why don’t you have a music blog, since music seems to be so therapeutic for you?” (paraphrasing). I wasn’t sure how to answer, so I’ve thought about it all day and I think that I could give a better answer today.
 
 **Background**  
 One year ago I began to listen to Tom Waits daily. I was familiar with his songs before, but not like I became in the last year. I first listened to Tom’s music when I was in high school, but I was so dismissive and obsessed with [The Doors](https://youtu.be/AYCB80WcaSI) and [Led Zeppelin](https://youtu.be/RlNhD0oS5pk) to really appreciate his lyrics and songs. At one point I had all of his albums on cassette up to his 1993’s [“Black Rider”](https://youtu.be/epxgkNouwrU) (I wish I knew what happened to them).  My first MP3 of his music was [“Mule Variations”](https://youtu.be/c_OkcVLBB9A) which I bought sometime in 2005. I loved most of the songs in that album, but I always skipped track sixteen. I would just start the record over. It wasn’t until a few years ago when [“Come on Up to the House”](https://youtu.be/c_OkcVLBB9A?t=1h6m10s) finally broke through me, or rather broke me. I think that life has to teach you some lessons about loss, and grief to appreciate the depth of Tom’s songs. This song was no exception. It became my friend when I was most alone.
