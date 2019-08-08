@@ -18,3 +18,14 @@ tags: personal, life, journal, sadness, loss
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
+
+
+
+
+<div class="container">
+	<div id="player" data-plyr-provider="youtube" data-plyr-embed-id="bTqVqk7FSmY"></div>
+</div>
+<script>
+    const player = new Plyr('#player', {});
+    window.player = player;
+</script>
