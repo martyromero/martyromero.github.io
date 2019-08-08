@@ -4,7 +4,7 @@ title: I feel terribly sad
 summary: Sometimes I feel too small to contain all the sadness that is inside of me.  
 category: blog
 comments: true
-tags: personal, life, journal, sadness, loss 
+tags: personal, life, journal, sadness 
 ---
 
 ![East L.A. Stake Center building in Monterey Park California.]({{ site.siteurl }}/public/posts/mom-hand.jpg){:.post-hero}
