@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I a terrible sadness
+title: I feel a terrible sadness
 summary: Sometimes I feel too small to contain all of the sadness that is inside of me.
 category: blog
 comments: true
