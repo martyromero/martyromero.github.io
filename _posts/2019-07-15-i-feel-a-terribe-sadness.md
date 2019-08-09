@@ -23,10 +23,10 @@ tags: personal, life, journal, sadness, loss
 
 
 <div class="container">
-Does JZ 2
+Does JZ 3
 
 <ul>
-    <li class="plyr__cite plyr__cite--youtube" id="player" hidden>
+    <li class="plyr__cite plyr__cite--youtube" hidden>
         <small>
             <a href="https://www.youtube.com/watch?v=bTqVqk7FSmY" target="_blank">View From A Blue Moon</a>
             on&nbsp;
@@ -39,6 +39,8 @@ Does JZ 2
                 YouTube
         </span>
     </small>
+    <div id="player">
+    </div>
     </li>
 </ul>
 
