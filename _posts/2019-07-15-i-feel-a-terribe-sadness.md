@@ -26,7 +26,7 @@ tags: personal, life, journal, sadness, loss
 Does JZ 1
 
 <ul>
-    <li class="plyr__cite plyr__cite--youtube" hidden>
+    <li class="plyr__cite plyr__cite--youtube" id="player" hidden>
         <small>
             <a href="https://www.youtube.com/watch?v=bTqVqk7FSmY" target="_blank">View From A Blue Moon</a>
             on&nbsp;
