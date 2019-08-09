@@ -45,7 +45,3 @@ Does JZ 3
 </ul>
 
 </div>
-<script>
-    const player = new Plyr('#player', {});
-    window.player = player;
-</script>
