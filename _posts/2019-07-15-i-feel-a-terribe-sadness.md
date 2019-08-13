@@ -22,26 +22,13 @@ tags: personal, life, journal, sadness, loss
 
 
 
-<div class="container">
-Does JZ 3
+Does JZ 5
 
-<ul>
-    <li class="plyr__cite plyr__cite--youtube" hidden>
-        <small>
-            <a href="https://www.youtube.com/watch?v=bTqVqk7FSmY" target="_blank">View From A Blue Moon</a>
-            on&nbsp;
-            <span class="color--youtube">
-            <svg class="icon" role="presentation">
-                <title>YouTube</title>
-                <path d="M15.8,4.8c-0.2-1.3-0.8-2.2-2.2-2.4C11.4,2,8,2,8,2S4.6,2,2.4,2.4C1,2.6,0.3,3.5,0.2,4.8C0,6.1,0,8,0,8
-                s0,1.9,0.2,3.2c0.2,1.3,0.8,2.2,2.2,2.4C4.6,14,8,14,8,14s3.4,0,5.6-0.4c1.4-0.3,2-1.1,2.2-2.4C16,9.9,16,8,16,8S16,6.1,15.8,4.8z
-                M6,11V5l5,3L6,11z"></path></svg>
-                YouTube
-        </span>
-    </small>
-    <div id="player">
-    </div>
-    </li>
-</ul>
-
+<div class="plyr__video-embed" id="player">
+    <iframe
+        src="https://www.youtube.com/embed/J2Ceyk8cZOk?origin=https://plyr.io&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1"
+        allowfullscreen
+        allowtransparency
+        allow="autoplay"
+    ></iframe>
 </div>
