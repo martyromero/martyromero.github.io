@@ -22,13 +22,10 @@ tags: personal, life, journal, sadness, loss
 
 
 
-Does JZ 6
+Does JZ 7
 
 <div class="plyr__video-embed" id="player">
     <iframe
         src="https://www.youtube.com/embed/J2Ceyk8cZOk"
-        allowfullscreen
-        allowtransparency
-        allow="autoplay"
     ></iframe>
 </div>
