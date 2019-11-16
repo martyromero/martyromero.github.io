@@ -8,7 +8,7 @@ tags:fall, reflections, personal, life
 description: I haven't had a chance to keep up on major changes since about July, but here is what has changed over the last year.
 ---
 
-![This is me walking towards or away from something (probably not important)]({{ site.siteurl }}/public/posts/walking-into-fall-2019.jpg){:.post-hero}
+![This is me walking towards or away from something (probably not important)]({{ site.siteurl }}/public/posts/walking-into-fall-32019.jpg){:.post-hero}
 *caption.*{:.image-caption .clearfix}
 
 
@@ -29,7 +29,7 @@ In general, I don't feel like I have grown much. I haven't really learned anythi
 
 **When I wrote this, I was listening to this:**
  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/zpucjzygeks?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/zPucjzygEKs?rel=0&amp;t=27s&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>
 
 *I can't remember who shared this song with me, but I know that I wasn't the one who found it. Soraya passed from breast cancer in 2006. She was only 37. I have outlived her.*{:.image-caption .clearfix}
 
