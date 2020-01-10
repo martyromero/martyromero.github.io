@@ -8,7 +8,7 @@ tags:fall, reflections, personal, life
 description: I have noticed that I have become "bitchy" at work. I hate that word, but there really is no other way to describe my attitude.
 ---
 
-![This is my spotify year in review for 2019]({{ site.siteurl }}/public/posts/spotify-year-in-review-2019.png{:.post-hero}
+![This is my spotify year in review for 2019]({{ site.siteurl }}/public/posts/spotify-year-in-review-2019.png){:.post-hero}
 *This is my spotify year in review for 2019. It's interesting to see that "The Lower Lights" were in my top artists of the year, while none of their songs were. Instead, "Hare Krishna, Hare Rama" was.*{:.image-caption .clearfix}
 
 
