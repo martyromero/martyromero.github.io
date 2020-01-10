@@ -1,11 +1,11 @@
 ---
 layout: post
 title: I need more music
-summary: I have noticed that I have become "bitchy" at work. I hate that word, but there really is no other way to describe my attitude.
+summary: I have noticed that I have become bitchy at work. I hate that word, but there really is no other way to describe my attitude
 category: blog
 comments: true
 tags:fall, reflections, personal, life 
-description: I have noticed that I have become "bitchy" at work. I hate that word, but there really is no other way to describe my attitude.
+description: I have noticed that I have become bitchy at work. I hate that word, but there really is no other way to describe my attitude
 ---
 
 ![This is my spotify year in review for 2019]({{ site.siteurl }}/public/posts/spotify-year-in-review-2019.png){:.post-hero}

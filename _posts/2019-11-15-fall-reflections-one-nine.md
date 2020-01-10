@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 Fall Reflections
+title: 2019 fall reflections
 summary:
 category: blog
 comments: true
