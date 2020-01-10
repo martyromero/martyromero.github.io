@@ -4,7 +4,7 @@ title: I need more music
 summary: I have noticed that I have become bitchy at work. I hate that word, but there really is no other way to describe my attitude
 category: blog
 comments: true
-tags:fall, reflections, personal, life 
+tags: personal, life
 description: I have noticed that I have become bitchy at work. I hate that word, but there really is no other way to describe my attitude
 ---
 
