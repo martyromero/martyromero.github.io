@@ -8,8 +8,8 @@ tags: personal, life, religion
 description: Its sad to look back and think of him as my religious rival. That is what he was though. 
 ---
 
-![I met Walter Knight in 1997 while serving as a Mormon Missionary. He introduced himself as a Prophet and I laughed at him. My understanding of a Prophet then is different than it is now. I wish that I would have been respectful. He was 46 when I met him. The same age that I am now.]({{ site.siteurl }}/public/posts/religious-rival-walter-knight.jpg){:.post-hero}
-*I met Walter Knight in 1997 while serving as a Mormon Missionary. He introduced himself as a Prophet and I laughed at him. My understanding of a Prophet then is different than it is now. I wish that I would have been respectful. He was 46 when I met him. The same age that I am now.*{:.image-caption .clearfix}
+![Portrait of Dr. Walter Knight.]({{ site.siteurl }}/public/posts/religious-rival-walter-knight.jpg){:.post-hero}
+*I met Walter Knight in 1997 while serving a Mormon mission. He introduced himself as a Prophet and I laughed at him. He was 46 when I met him. The same age that I am now.*{:.image-caption .clearfix}
 
 
 ## His name was Walter Night 
@@ -19,7 +19,7 @@ I had a dream about him last night. It wasn't so much a dream about him as much 
 
 The image of him sitting in the livingroom of our tiny apartment with his arms cofidently stretched out on the backrest of the couch is so vivid. He was smug, and annoyingly confident about the things that he believed in. 
 
-I admit that a part of me hated him. He was the very first person who challenged me to NOT lie about what I knew. I began to tell him about the evidence that had been found to support the Book of Mormon and he challenged me to cite references. I couldn't. I couldn't because what I thought I knew was just what I had heard passed from one Mormon to another over the years. He looked at me and told me not to lie. He explained that he had just gotten back from a trip to BYU where he had spoken to [Dr. Robert Millet](https://religion.byu.edu/robert_millet)—the dean of religioius education. He told me that Dr. Millet admitted that no evidence had ever been found to support the historicity of the Book of Mormon, and again he looked at me and asked me not to lie.
+I'll admit it. I hated him. He was the very first person who challenged me to *NOT* lie about what I knew. I began to tell him about the evidence that had been found to support the Book of Mormon and he challenged me to cite references. I couldn't. I couldn't because what I thought I knew was just what I had heard passed from one Mormon to another over the years. He looked at me and told me not to lie. He explained that he had just gotten back from a trip to BYU where he had spoken to [Dr. Robert Millet](https://religion.byu.edu/robert_millet)—the dean of religioius education. He told me that Dr. Millet admitted that no evidence had ever been found to support the historicity of the Book of Mormon, and again he looked at me and asked me not to lie.
 
 After leaving Rockport I never heard from him again. In fact, I haven't thought very much about him until recent years. I thought about him five years ago when I accepted that the god that I worshiped and the God that I believed in were not the same (it's only been in the last little bit that I have been able to articulate that by the way).
 
