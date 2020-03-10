@@ -13,7 +13,7 @@ description: Its sad to look back and think of him as my religious rival. That i
 
 
 ## His name was Walter Night 
-It's sad to look back and think of him as my religious rival. That is what he was at the time though. I remember the first conversation that I had with him. I called him a "false prophet" and a "spiritual fear mongoer." I told him that in order for him to find truth, he needed to have a desire for it and that I wasn't impressed by what I saw. He responded by taking my companion and I out for pizza.
+It's sad to look back and think of him as my religious rival. That is what he was at the time though. I remember the first conversation that I had with him. I called him a "false prophet" and a "spiritual fear monger." I told him that in order for him to find truth, he needed to have a desire for it and that I wasn't impressed by what I saw. He responded by taking my companion and I out for pizza.
 
 I had a dream about him last night. It wasn't so much a dream about him as much as it was a feeling in my dream that I was spending time with him, but he wasn't really there. I wanted to look him up again to see his face. I found the article writen in the [Rockport Pilot](http://www.rockportpilot.com/people/article_e434e962-181e-5c34-824f-c74250d1c455.html) about his passing. He looks so young and so much thinner than I remember him. To my 23 year old Mormon mind, he was the "fat pastor that liked to bible-bash Mormon misionaries" and I was going to be his match. 
 
