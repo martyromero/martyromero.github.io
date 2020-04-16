@@ -12,7 +12,7 @@ description: I haven't thought about Kristin in years, but last night I woke up 
 *Kristin Woolley was a <strike>favorite</strike> close friend. It feels tragic that our friendship didn't survive and that our families could not be friends, but an even greater tragedy is that I don't care—despite what my brain thinks.*{:.image-caption .clearfix}
 
 ## It was only a dream
-I haven't thought about Kristin in years, but last night I woke up in the middle of a dream charged with sadness. In the dream Kristin looked different. In fact, she was a completely different person, but as it happens in dreams I knew it was her. It wasn't the dream itself that woke me. It was the heavy feelings of (loss)[http://martyromero.me/the-difference-between-sadness-and-loss].
+I haven't thought about Kristin in years, but last night I woke up in the middle of a dream charged with sadness. In the dream Kristin looked different. In fact, she was a completely different person, but as it happens in dreams I knew it was her. It wasn't the dream itself that woke me. It was the [heavy feelings of loss](http://martyromero.me/the-difference-between-sadness-and-loss).
 
 It was late and I spent the night sitting in a recliner reading or planning until the early hours of the morning. I felt eager to be on my way the next morning, and I almost missed saying good-bye to her, but she woke up just as I was leaving and walked me to my car. Unlike other dreams where I experience the dream in the first-person, in this dream I was a god-figure looking down from above. I was privy to my feelings, and my thoughts and I could feel the anxiety building up wanting to continue on my journey.
 
