@@ -21,7 +21,7 @@ About half way through the dream, I was paralized with a need to intervene and t
 "Slow down and make eye contact Marty. Pay attention to the tone of Kristin's voice, and the smile on her face." I didn't, and the friendship was over the minute I drove away. That feeling of knowing that the friendship was over woke me.
 
 ## I don't really care
-Five years ago I ran into Kristin's Facebook profile and I immediately blocked her just how I blcoked and unfriended everyone that remotely connected me to Texas. So, what buffer did my brain find to trigger a dream about someone that I don't think of and can barely remember.
+Five years ago I ran into Kristin's Facebook profile and I immediately blocked her just as I blcoked and unfriended everyone that remotely connected me to Texas. So, what buffer did my brain find to trigger a dream about someone that I don't think of and can barely remember.
 
 The next few hours after waking up I was overcome with the loneliness from the late 90s/2000s. Though I didn't care so much for the dream, the feelings reminded me that it has been almost a year since I have felt lonely, sad, happy, content or any other emotion that I am familiar with. I am almost always numb. Not even music affects me like it use to. I am tired.
 
