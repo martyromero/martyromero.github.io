@@ -13,7 +13,7 @@ description: some songs that simply make me want to put on my headphones, raise 
 
 *One of my favorite covers of one of my favorite songs by one of my favorite bands, [Nathaniel Ratecliff and the Night Sweats](https://www.nathanielrateliff.com/).*{:.image-caption .clearfix}
 
-## Some songs help me breathe
+## Songs help me breathe
 I don't know what it is about some songs that simply make me want to put on my headphones, raise the volume to full blast so that I can't hear anything around me, close my eyes and just breathe. 
 
 For the same reasons that I wish the volume was turned way up on Miley Cyrus' vocals in [Joan Jett's cover of Crimson and Clover](https://youtu.be/DmQ2xOmy2MI) at 3:12, for those reasons I love every second of this cover, especially at 1:16, 1:50, 1:55, and 2:31 until the end.
