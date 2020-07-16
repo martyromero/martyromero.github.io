@@ -14,7 +14,7 @@ description: When I was in college I had a friend who use to walk with me to the
 *This is not the original of course, it's a really good cover. It would be generic of me to post the [official video](https://www.youtube.com/embed/W9AOQhZ_AGY).*{:.image-caption .clearfix}
 
 ## I stole a song on tape
-When I was in college I had a friend who use to walk with me to the movies once or twice a week. The theatre was four, or miles from the dorms, but I loved walking with him. He was from a rival high school, a football player, good looking kid, strong, but shy as no other. We clicked over our introvertness, but otherwise, he was the exact opposite of me (short, average looking, band geek, and wimpy, and not a clue about sports).
+When I was in college I had a friend who use to walk with me to the movies once or twice a week. The theatre was four, or miles from the dorms, but I loved walking with him. He was from a rival high school, a football player, good looking kid, strong, but shy as no other. We clicked over our introvertness, but otherwise, he was the exact opposite of me (short, average looking, band geek, weak, and not a clue about sports).
 
 On one of our movie hikes, we walked by a car (MR2) that had been obviously broken into. The driver's side window had been broken and the inside looked a bit ransacked. The first thing I did was check for a tape in the tape player (yes, that long ago). There was a black tape and I took it. 
 
