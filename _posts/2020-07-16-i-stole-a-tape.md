@@ -18,7 +18,7 @@ When I was in college I had a friend who use to walk with me to the movies once 
 
 On one of our movie hikes, we walked by a car (MR2) that had been obviously broken into. The driver's side window had been broken and the inside looked a bit ransacked. The first thing I did was check for a tape in the tape player (yes, that long ago). There was a black tape and I took it. 
 
-The first song was "She Talks to Angels" by the Black Crows. I loved it and while I felt a bit of remorse over having stolen it, I was grateful to have found the Black Crowes because of it. I still remember that night. Mostly because of this song and my friend Saul.
+The first song was "She Talks to Angels" by the Black Crows. I loved it and while I felt a bit of remorse over having stolen it, I was grateful to have found the Black Crowes because of it. I still remember that night, mostly because of this song and because of my friend Saul.
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
