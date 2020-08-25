@@ -38,6 +38,7 @@ pages_list:
   About:            '/about'
   Archive:          '/archive'
   Home:             '/'
+  Uses:             '/uses'
 
 # Gems
 gems:
