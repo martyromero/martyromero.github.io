@@ -35,10 +35,10 @@ github:
 analytics_id:        UA-76196007-1
 #Dictionary
 pages_list:
+  Uses:             '/uses'
   About:            '/about'
   Archive:          '/archive'
   Home:             '/'
-  Uses:             '/uses'
 
 # Gems
 gems:
