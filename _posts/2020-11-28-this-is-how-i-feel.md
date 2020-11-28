@@ -22,7 +22,7 @@ By now in recent years I would already have posted my fall update. What I have d
 
 I feel so alone, lonely (those two are different), sad, and defeated. The worst part is the facade that I have to put on in front of everyone. I am tired. 
 
-*This is an exaggeration to be sure. I too am guilty of doing things to make her feel the same or worse in return. But it is how I feel by the passive refusal to do life with me and be my partner. It is making my spirit shrivel inside. 
+*This is an exaggeration to be sure. I too am guilty of doing things to make her feel the same or worse in return. But it is how I feel by the passive refusal to do life with me and be my partner. I know what you are asking. Why do you stay? **Because I love her!** But it is making my spirit shrivel inside to be so independant and do life almost on my own.
 
 {:.signature}
 ![Jose Romero]({{ site.siteurl }}/public/posts/signature.png)
