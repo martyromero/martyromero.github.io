@@ -18,9 +18,9 @@ By now in recent years I would already have posted my fall update. What I have d
 
 **This is all I have**
 1. My mother believes that I am being manipulated by my wife to destroy her
-2. My wife makes me feel like I am an asshole*
+2. My wife makes me feel like an asshole to tolerate*
 
-I feel so alone, lonely, sad, and hopeless. The worst part is the facade that I have to put on in front of everyone. I am tired. 
+I feel so alone, lonely (those two are different), sad, and defeated. The worst part is the facade that I have to put on in front of everyone. I am tired. 
 
 *This is probably an exaggeration and I am guilty of doing things to make her feel the same or worse in return. But she refuses almost every opportunity to do life with me, and be my partner, and it is making my spirit shrivel inside. 
 
