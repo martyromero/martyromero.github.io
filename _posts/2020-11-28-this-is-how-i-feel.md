@@ -16,7 +16,7 @@ description:
 ## Here it is. Don't judge!
 By now in recent years I would already have posted my fall update. What I have done, learned, or become in the previous year, and what I hoped to do in the next. Not this time. 
 
-This is all I have:
+**This is all I have**
 1. My mother believes that I am being manipulated by my wife to destroy her
 2. My wife makes me feel like I am an asshole*
 
