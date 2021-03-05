@@ -8,7 +8,7 @@ tags: personal, life,
 description: One of my collieges is leaving the university. He was only here for three years and we rarely worked together. We met a couple of weeks ago to talk about a project that we are both working on and the conversation strayed into more non-work related topics.
 ---
 
-## Hello sadness my old friend ##
+## "Hello sadness my old friend" ##
 I am sad this morning. A colleague of mine is leaving the university. He was only here for three years and though we rarely worked together, we met a couple of weeks ago to talk about a one of the few projects that we are both working on. The conversation strayed into more non-work related topics. He <strike>is</strike> was LDS, so naturally we talked about growing up in the church, our families, our frustration with LDS leadership and policies throughout the years. his experience with the church is similar to mine. 
 
 We talked about his experience moving from Utah to Nevada and ultimately to Ellensburg. He said something that stuck with me because it was the perfect phrase to describe what I have been feeling for the past four and a half years that I have been here. He said "we haven't found... family" here. I understand.
