@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good luck to you in Utah my almost friend
+title: Good luck to you in Utah my almost-friend
 summary: I am sad this morning. One of my collieges is leaving the university. He was only here for three years and we rarely worked together. We met a couple of weeks ago to talk about a project of remorse over having stolen it, I was grateful to have found the Black Crowes because of it.
 category: blog
 comments: true
