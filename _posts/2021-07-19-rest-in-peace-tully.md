@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rest in Peace Tully Rankin
+title: Rest in peace Tully Rankin
 summary: I heard the news from Jeff on Wednesday night. "Tully passed away". I felt a knot in my throat when I read his message and a my heart sank. The feeling took me by surprised because it had been years since I'd heard from Tully (or about him).
 category: blog
 comments: true
