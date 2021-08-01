@@ -7,7 +7,7 @@ comments: true
 tags: personal, life, faith
 ---
 
-I miss believing in something so deeply that thinking about it causes me to fall on knees. Since stepping away from the Mormon church I have become suspicious of everything and most everyone (including myself).
+I miss believing in something so deeply that thinking about it causes me to fall on my knees. Since stepping away from the Mormon church I have become suspicious of everything and most everyone (including myself).
 
 
 **When I wrote this, I was listening to this song**
