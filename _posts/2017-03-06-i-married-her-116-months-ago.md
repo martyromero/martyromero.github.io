@@ -14,7 +14,7 @@ meta: celebration, wedding, anniversary, love
 
 ## Monthaversary
 
-We started celebrating our wedding each month from the very beginning. It annoyed me the first year. What a clich&eacute; I thought! My wife said that we would stop celebrating “monthaversaries” after our first year, but it didn’t stop.   We have missed a few months, only to come back a few days later and make a deal of it, even if it is only “hey, we forgot our monthaversary!” Today is our 116th wedding monthaversary, but it has been 217 months and 4 days since we met. 
+We started celebrating our wedding each month from the very beginning. It annoyed me the first year. "What a clich&eacute;" I thought! My wife said that we would stop celebrating “monthaversaries” after our first year, but it didn’t stop. We have missed a few months, only to come back a few days later and make a deal of it, even if it is only “hey, we forgot our monthaversary!” Today is our 116th wedding monthaversary, but it has been 217 months and 4 days since we met. 
 
 Sure it’s true that we haven’t always made each other happy, and we both wish that many things had turned out differently, but I love her still. 
 
